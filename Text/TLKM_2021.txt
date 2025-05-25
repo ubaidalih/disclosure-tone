@@ -1,0 +1,939 @@
+100 PT Telkom IndonesIa (Persero) TbkBUSINESS   ENVIRONMENT OVERVIEW 2021 The year 2021 was expected to be a turning point in the  economic recovery of all countries worldwide.
+Each country is making various measures and policies to suppress the COVID-19 pandemic to control its spread by mobility restriction and mass vaccination programs.
+These measures aimed to restore the world economy to normal before the pandemic.
+Based on the October 2021 World Economic Outlook (WEO) report, the IMF predicted the global economy in 2021 to grow by 5.9%, higher than the growth achieved in the previous year, which contracted at 3.1%.
+It was supported by the addition of a robust fiscal stimulus and faster vaccinations that reopened broader community activities, especially in developed countries such as the United States and Europe.
+However, the global economic recovery is still uneven,  which is caused, among other things, by differences in the COVID-19 pandemic situation, the speed of vaccination, and support for economic stimulus.
+In general, the developed countries experienced a projection increase supported by the economic activity reopening, high vaccination coverage, and high fiscal stimulus.
+Meanwhile, most developing countries had a decline in projections due to implementing a stricter community activity restriction policy amid the spread of the Delta COVID-19 variant.
+The lower vaccination rate was also a risk to future economic recovery.
+The prediction of global economic growth of 5.9% in  the WEO report released in October 2021 is a revision to the projection released by the WEO in July 2021, with a decrease of 0.1%.
+The decline in the 2021 economic growth projection occurred widely in both developed and developing countries.
+The two largest economies in the world, the United States and China, also received growth revisions to 6% and 8% in 2021.
+Meanwhile, ASEAN-5 also experienced a decline in growth predictions to 2.9%, decreased by 1.4% toward the released WEO report of July 2021.
+In line with global economic conditions, Indonesia’s economic recovery still continues.
+Indonesia’s economy grew by 3.69% in 2021.
+It was supported by stable export performance and the revived consumption and investment activities in line with easing people’s mobility restrictions.
+Looking at the leading macro indicators, the Rupiah exchange rate against the USD throughout 2021 experienced a slight fluctuation.
+The selling rate for Bank Indonesia transactions on January 4, 2021 was Rp13,973 per USD, while the selling rate on December 31, 2021 was closed at Rp14,340 per USD.
+Meanwhile, the Bank Indonesia benchmark interest rate (BI 7-days repo rate) decreased slightly from 3.75% in January to 3.50% in December 2021.
+Indonesia’s economic resilience in the face of the  pandemic is also quite good compared to many other countries.
+Rating agency Fitch Ratings maintains Indonesia’s credit rating at BBB Outlook Stable as of November 2021, while Moody’s maintains Indonesia’s rating at Baa2 with Outlook Stable in February 2022.
+It is an outstanding achievement for Indonesia amid a pandemic, which is in 2020, 3 world rating agencies, namely Standard & Poor’s, Moody’s, and Fitch, have taken 124 downgrades to 53 countries and revised the outlook to negative 133 times for 63 countries.
+Indonesia’s economic activity is recovering gradually from the pressure of COVID-19, supported by policies to handle the pandemics that are getting better and are encouraged by efforts to accelerate vaccination by the government.
+INDONESIAN   TELECOMMUNICATIONS  INDUSTRY Amid the ongoing COVID-19 pandemic in 2021, the  telecommunications industry growth still grew and was relatively stable.
+The increasing digitization and the internet demand to support people’s activities influenced this growth.
+In Q1 2021, Indonesia, with a total population of 274.9 million people, had 202.6 million internet users or equivalent to 73.7% of the total population, increased by 15.5% or 27 million internet users compared to Q1 2020.
+It indicates that the lifestyle and economy digital change have become more evident and increased the internet services demand, both fixed broadband and mobile (cellular), which are the main factors in the development of the telecommunications industry.
+Telkom has a vital role in supporting Indonesia’s economic growth for the digital economy in particular and has the opportunity to become a digital telco leader in Indonesia and regionally.
+However, competition in the telecommunications industry GLOBAL ECONOMY AND   INDONESIA 101 annual report 2021Mana GeMent DISC uSSIon anD anal YSIScontinues, especially in the mobile segment, where  penetration is increasingly saturated,  accompanied by price wars and substitute products from OTT.
+In addition, cellular operators have also started implementing Fixed Wireless Access (FWA) services to expand their market coverage.
+Cellular operators have also started developing 5G technology so that operators will compete to provide 5G services to support the advancement of the telecommunications industry and develop its various derivative industries. 2021 was also marked by the continuing process of  industrial consolidation, which finally materialized in early 2022 when Indosat merged with Tri, and Axiata Group (a shareholder of XL Axiata) acquired PT Link Net Tbk.
+These consolidations between operators were positive for the telecommunications industry, expecting that the quite intense competition will become healthier, and in turn, all operators will enjoy sustainable growth.
+The cellular market in Indonesia is also still dominated  by three cellular operators, namely Telkomsel, Indosat Ooredoo, and XL Axiata.
+The total subscribers of the three cellular operators were more than 79.4% market share as of December 31, 2021.
+Telkomsel remains the largest cellular provider in Indonesia with 176.0 million subscribers and a market share of approx. 59.3% of the total subscribers of the 3 largest cellular operators in Indonesia.
+Data consumption in the Mobile segment continues to increase.
+It drives company revenue from data services, in line with the increase in data traffic volume, from data-based communication services, video streaming, games, and content and applications.
+In addition, this is also in line with the increasing number of devices connected to the network.
+In the future, it will increase in line with the development of 5G network services that Telkomsel began to introduce on May 27, 2021.
+On the other hand, capital expenditure is also essential to increase capacity to support the growth of the data service.
+Tower infrastructure is essential in supporting the cellular service networks availability and plans for developing and implementing 5G, which require significant investments.
+Therefore, Mitratel, a subsidiary of Telkom which is engaged in the tower business, was listed on the stock exchange on November 22, 2021, with the code MTEL.
+It was one of Telkom’s strategic plans through an IPO in increasing the Company’s value.
+Mitratel has acquired 4,000 towers from Telkomsel so that it has 28,079 towers and remains growing to fulfill its vision of becoming the leading and best provider in telecommunication tower infrastructure in Southeast Asia.
+In 2021, the demand for the fixed broadband industry  increased in big, medium, and small cities.
+It was due to the consumption-driven by the increasing home broadband demand in line with the people’s needs for work from home (WFH) and school from home (SFH).
+Compared to the previous year, IndiHome subscribers increased and still dominate the fixed broadband market in Indonesia.
+As of December 31, 2021, Telkom has around 8.6 million subscribers of IndiHome fixed broadband or market share estimated around 80.2%.
+The high internet usage or traffic for mobile and fixed  broadband and the use of various digital services, has impacted on the high demand for data center and cloud businesses.
+Telkom built a Hyperscale Data Center (HSDC) on Tier 3 and Tier 4 data center specifications on a 65,000 m 2 area with a total planned capacity of 75 MW.
+HDC will  be built in stages, where Phase 1 with a capacity of around 22 MW is expected to be completed in Semester 1 2022, and complements the existing 26 data centers, namely 21 domestic data centers and 5 international data centers, including Tier 3 and 4 data centers in Jurong, Singapore.
+Telkom’s total data center capacity that in December 2021 was 5,039 racks for domestic data centers.
+Meanwhile for international data centers, they were 16,542 KW in Singapore, 250 kVA in Timor Leste, and 500 kVA in Hong Kong.
+Besides digital connectivity and digital platform,  digital services are also the primary support for the telecommunications business.
+By the COVID-19 pandemic in 2020 and 2021, digitization or lifestyle transformation towards digital are more tangible.
+Telkom seeks to seize these opportunities, including through Telkomsel, which formed the Telkomsel Digital Ecosystem (TED) to accelerate digital business development.
+In the early stages, TED will focus on 3 vertical digital businesses, including games (Dakota), health-tech (FITA), and edu-tech (Kuncie). 102 PT Telkom IndonesIa (Persero) TbkTELECOMMUNICATION   INDUSTRY COMPETITION Digital transformation has developed and penetrated all  sectors, both social and economic.
+Amid the COVID-19 pandemic, various community activities have shifted towards online activities so that digital transformation is increasingly accelerated and encouraged as one of the main policy pillars in Indonesia.
+TelkomGroup provides multiple products and services according to the community’s needs, such as cellular services, fixed broadband, fixed voice, enterprise, interconnection, and satellite services.
+Mobile Business Throughout 2021, Telkomsel remained the largest cellular provider in Indonesia with approximately 176.0 million subscribers and a market share of around 59.3% of the total subscribers of the 3 largest cellular operators in Indonesia.
+The next most significant provider position was Indosat Ooredoo and XL Axiata based on the internal analysis results.
+Several other operators also provide cellular services in Indonesia, such as Hutchison Tri (3) and Smartfren Telecom.
+Until December 2021, SIM card penetration in the cellular industry had growth of 6%, with 374 million subscribers, increased by 5.2% compared to the previous year.
+Data traffic showed significant growth, while voice and SMS continue to decline.
+The declining trend is predicted to continue for the next few years due to the increase in smartphones substituting traditional voice and SMS services for Over the Top (OTT) services.
+Fixed Broadband & Fixed Voice  Business (Fixed Business) At the end of 2021, Telkom remained the largest fixed  broadband business operator in Indonesia through its IndiHome brand, with approximately 8.6 million subscribers and an estimated market share of around 80.2%.
+Some of the main competitors in the fixed broadband industry, namely PT Link Net Tbk (First Media), PT Supra Primatama Nusantara (Biznet Home), PT MNC Kabel Mediacom (MNC Play), PT Eka Mas Republik (affiliated with Smartfren Telecom and operating under the My Republic brand), and PT XL Axiata (XL Home Fiber).
+We should consider other competitors in the retail market of Cyberindo Aditama (CBN Fiber) and PT Oxygen Multimedia Indonesia (an affiliate of Moratelindo and operating under the Oxygen.
+id brand), which previously operated in the corporate segment and are now starting to enter the retail of residential market.
+However, Telkom is still superior in coverage and infrastructure, which has spread throughout Indonesia.
+The competition in the commercial internet services has been higher due to newcomers, namely a subsidiary of PT Perusahaan Listrik Negara (PLN) with the Iconnet brand and the State Gas Company (PGN) with the Gasnet brand.
+Data Center Telkom is committed to providing the best data center service to customers in Indonesia and Southeast Asia.
+Telkom’s data centers are supported and integrated by domestic and global networks featured with comprehensive data center services designed to be flexible, modular, seamless, and scalable.
+Telin, as Telkom’s subsidiary providing a global data center, competes in the international market with other large data center providers in Singapore and Hong Kong.
+While in domestic market, Telkom competes with several data centers companies in Jakarta, Surabaya, and other major cities, such as DCI Indonesia, Indosat Ooredoo, Moratelindo, IDC Indonesia, NTT Communication, Global Axcess System, Biznet, Centrin Online, Cyber   TechTonic Pratama, and  JupiterDC.
+International Traffic and  Interconnection Business Currently, the only traditional IDD non-VoIP international  traffic service operators in Indonesia are Telkom and Indosat.
+Competition in this line of business is getting more challenging due to the presence of OTT and digital communication services such as Line, WhatsApp, and  103 annual report 2021Mana GeMent DISC uSSIon anD anal YSISSkype.
+All three are VoIP service provider applications  that can open international access.
+The presence of the OTT contributed to the decline in Telkom’s revenue from traditional IDD (non-VoIP) international traffic.
+With intense competition, plus the COVID-19 pandemic during the last two years, Telkom responds to OTT by positioning OTT as a customer, partner, and/or competitor to obtain maximum added value for TelkomGroup.
+The scope of service delivery/cooperation with OTT includes connectivity, data center, and Content Delivery Network (CDN) services that provide revenue or increase profits for the Company.
+Network and Satellite Infrastructure  Business Telkom managed its business activities in the  infrastructure business line, particularly towers, by its subsidiaries of Mitratel and Telkomsel.
+Telkom has several main competitors in the tower business, including Tower Bersama Infrastructure, Solusi Tunas Pratama, PT Profesional Telekomunikasi Indonesia, and telecommunications operators Indosat and XL Axiata.
+Mitratel carries out an organic strategy by constructing new towers or co-locations to serve cellular operators.
+In addition, Mitratel also carries out an inorganic strategy through tower consolidation within the TelkomGroup and tower acquisitions from other tower providers and telecommunication operators.
+In satellite business, Telkom’s customers are spread across the Asia Pacific, especially Southeast Asia.
+The islands region’s characteristics require satellites as telecommunications and broadcasting infrastructure.
+Satellite services include cellular backhaul, broadband backhaul, enterprise network, TV on demand, military and government networks, video distribution, DTH television, aviation communications, and disaster recovery.
+In managing satellite business, Telkom competes with other operators developing satellites in Southeast Asia and South Asia.
+The two satellites owned by Telkom include the Telkom-3S Satellite, which operates in the 118°E orbital slot, and the Merah Putih Satellite, which is in the 108°E orbital place.
+In addition, in 2021, Telkom obtained the right to use the 113°E orbital slot by the MoCI Press Release dated January 5, 2021 No. 06/HM/KOMINFO/01/2021.
+Telkom, through Telkomsat, plans to place a satellite with the latest technology known as High Throughput Satellite (HTS) before December 31, 2024.
+Digital Business In 2021, the global technology giant had arrived and entered the domestic market.
+In addition, several unicorns have penetrated several vertical industries (such as logistics, e-commerce, financial services, travel, and other industries), so the time to lead the market is minimal.
+Telkom provides digital products to serve customers according to their needs.
+Telkom orchestrates its digital products and attempts to synergize with existing businesses.
+In addition, Telkom also carries out a partnership strategy both with parties who have competence in specific vertical fields to increase digital capabilities and investors to accelerate digital business scale. 104 PT Telkom IndonesIa (Persero) Tbk OPERATIONAL OVERVIEW BY BUSINESS SEGMENT MOBILE •	Provides high- speed connectivity  for Telkomsel’s  customers by  utilizing mobile voice,  SMS, mobile data  services, and mobile  digital services.
+•	It is the largest cellular network  operator in Indonesia  with national  coverage that  reaches more than  96% population  and is supported by  251,116 total BTS.
+•	Provides services  of fixed voice, fixed  broadband, IP- TV, and digital for  customers with high- speed connectivity.
+•As of December  31, 2021, it had 8.6  million IndiHome  subscribers,  increased by 7.3%  from the previous  year.
+•Provides enterprise  connectivity, satellite, and digital platform  system services  for corporate,  institutional and  business customers.
+• As of December 31,  2021, became the  market leaders who  have served clients  of 1,517 companies,  358,001 MSME and  930 Government  institutions.
+• Provides domestic and international  services for wholesale  traffic, network,  digital platform  & service, tower,  and managed  infrastructure &  network.
+•	 Services in 11  countries with 1  headquarter in  Indonesia and 10  global offices of Telin  operating overseas.
+• Provides services related to digital  payment solutions,  big data & smart  platforms, digital  advertising, music,  gaming, and  e-commerce.
+• Operates venture capital funds through  MDI to invest in  digital startups.
+PT Graha Sarana Duta (Telkom Property) performs asset leverage and increase the income with the  services of property developer, leasing, facility, and management.
+CONSUMER ENTERPRISEWHOLESALE &  INTERNATIONAL  BUSINESSOTHERS 105 annual report 2021Mana GeMent DISC uSSIon anD anal YSISSEGMENT PERFORMANCE HIGHLIGHTS Since the COVID-19 pandemic, TelkomGroup has adapted business development to the needs of customers and the  society for digitalization and telecommunications systems, especially broadband services.
+The restrictions that occurred during the pandemic have encouraged the digitalization transformation that continues today.
+It is an opportunity for TelkomGroup’s business to be able to meet society’s needs, as well as to improve operational and financial performance.
+Financial performance during 2021 showed positive results, as it was influenced by the great demand for digital  services and digital connectivity from personal and residential customers.
+In general, all business segments had a good performance, but the most significant contribution to the Company’s revenue is still dominated by the Mobile segment at 46.2%.
+The Mobile segment contributed the highest revenue to TelkomGroup of Rp87,364 billion.
+Meanwhile, the Enterprise  segment contributed the second-highest revenue of 22.0% or Rp41,536 billion, followed by the Wholesale and International Business (WIB) segment with 17.1% or Rp32,327 billion, and the Consumer segment with 13.3% or Rp25,115 billion.
+The Others segment was the lowest contribution of 1.4% or Rp2600 billion.
+Telkom’s Results of Operation by SegmentGrowth Years ended December 31, 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Mobile Revenues External revenues 0.7 84,267 5,913 83,720 87,897 Inter-segment revenues (6.1) 3,097 217 3,297 3,163 Total segment revenues 0.4 87,364 6,130 87,017 91,060 Total segment expenses (2.1) (52,929) (3,714) (54,051) (56,864) Segment results 4.5 34,435 2,416 32,966 34,196 Consumer Revenues External revenues 19.0 24,930 1,749 20,957 17,706 Inter-segment revenues (83.7) 187 13 1,148 786 Total segment revenues 13.6 25,117 1,762 22,105 18,492 Total segment expenses 9.6 (19,223) (1,349) (17,544) (15,904) Segment results 29.2 5,894 413 4,561 2,588 Enterprise Revenues External revenues 8.0 19,141 1,343 17,729 18,701 Inter-segment revenues 20.5 22,395 1,571 18,591 16,834 Total segment revenues 14.4 41,536 2,914 36,320 35,535 Total segment expenses 13.5 (41,843) (2,936) (36,864) (36,768) Segment results 43.6 (307) (22) (544) (1,233) 106 PT Telkom IndonesIa (Persero) Tbk Telkom’s Results of Operation by SegmentGrowth Years ended December 31, 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) WIB Revenues External revenues 5.6 14,255 1,000 13,501 10,609 Inter-segment revenues 12.0 18,072 1,268 16,139 16,265 Total segment revenues 9.1 32,327 2,268 29,640 26,874 Total segment expenses (0.0) (23,135) (1,623) (23,143) (21,111) Segment results 41.5 9,192 645 6,497 5,763 Others Revenues External Revenues (6.4) 205 14 219 197 Inter-segment revenues 54.5 2,395 168 1,550 1,289 Total segment revenues 47.0 2,600 182 1,769 1,486 Total segment expenses 44.5 (2,401) (168) (1,662) (1,546) Segment results (86.0) 199 14 107 (60) 107 annual report 2021Mana GeMent DISC uSSIon anD anal YSISOPERATIONAL HIGHLIGHT   Year Ended on December, 31 Unit 2021 2020 2019 SUBSCRIBERS Cellular Subscribers1) (000) subscribers 175,977 169,542  171,105    Telkomsel Halo (000) subscribers 7,201 6,496  6,376    Telkomsel Prepaid (000) subscribers 168,776 163,046  164,729  Broadband Subscribers (000) subscribers 129,117         123,954          117,256     Fixed broadband IndiHome 2)(000) subscribers 8,601 8,016  7,003    Mobile broadband 3)(000) subscribers 120,516 115,938  110,253 Fixed Line Subscribers (000) subscribers 8,999 9,119  9,369    Fixed wireline (POTS) (000) subscribers 8,999 9,119  9,369 INFRASTRUCTURE      Satellite Capacity4)TPE 109 133 133    Point of Presence PoP 120 117  119       Domestic PoP 62 59  56       International PoP 58 58  63    BTS unit 251,116 231,172  212,235       BTS 2G unit 50,241 50,252  50,297       BTS 3G unit 63,149 73,397  82,104       BTS 4G unit 137,613 107,523  79,834       BTS 5G unit 113 n/a n/a    Tower unit 36,761 35,822  33,892    Fiber Optic Backbone Network km 170,885 167.935  164,769       Domestic km 106,185 103.235  100,069       International km 64,700 64.700  64,700    Wi-Fi Services access point 390,976 386,856  386,420 108 PT Telkom IndonesIa (Persero) Tbk  Year Ended on December, 31 Unit 2021 2020 2019 CUSTOMER SERVICE      PlasaTelkom 5)location 387 408 422    Plasa Telkom Digital location 22 16 10 GraPARI location 414 431 436        International location 18 19 5        Domestic location 396 412 431 GraPARI location 387 403 422 GraPARI TelkomGroup location 9 9 9    GraPARI Mobile unit 174 365  324    IndiHome Sales Car unit 750 896  1,078 EMPLOYEES people 23,756 25,348  24,272 Remarks: 1) Since June 2021, the cellular brand has changed to Telkomsel Halo for postpaid and Telkomsel Prabayar for prepaid services. 2) IndiHome fixed broadband is a product that allows customers to choose one or more Consumer segments portfolios such as fixed telephone, fixed broadband, and IPTV services, including digital consumer services. 3) Mobile broadband includes Flash users, Blackberry users, PAYU, and Home LTE. 4) Telkom operates two satellites, namely Telkom-3S and Merah Putih Satellite, after the Telkom-2 satellite de-orbited since May 2021. 5) PlasaTelkom outlet is a face-to-face service consisting of GraPARI TelkomGroup, Plasa Telkom Digital, and other Plasa across Indonesia.
+In 2021, Telkom’s operational performance still experienced significant growth.
+The number of cellular subscribers  increased from 169.5 million subscribers in 2020 to 176.0 million subscribers in 2021 or growing 3.8%, while the number of broadband subscribers grew 4.2% from 123.9 million subscribers in 2020 to 129.1 million subscribers in 2021.
+Meanwhile, fixed wireline subscribers have decreased from 9.1 million subscribers in 2020 to 9.0 million subscribers in 2021.
+The changes were influenced by the shifting in customer behavior from previously using traditional telecommunications to broadband-based digital telecommunications.
+In 2021, Telkom continued in developing infrastructure, although the COVID-19 pandemic still hampers it.
+Telkom built a  Wi-Fi Corner (WiCo) in several areas and inaugurated the neuCentrIX data center in Banjarmasin.
+The addition of a Wi-Fi Corner (WiCo) will make it easier for the public to access Wi-Fi Service during the pandemic. 109 annual report 2021Mana GeMent DISC uSSIon anD anal YSISTelkomGroup continues its transformation to strengthen  telecommunication services and takes the initiative to synergize with external and internal parties.
+In addition, through the development of 5G technology, Telkom continues to increase opportunities from digital business in all sectors, both business-to-business (B2B) and business-to-consumer (B2C).
+TelkomGroup’s products and services in the Mobile  segment consist of mobile voice and SMS, mobile data services, and mobile digital services.
+In cellular services, TelkomGroup through its subsidiary Telkomsel carries GSM, 3G, 4G/LTE, and 5G technology which was officially launched in May 26, 2021.
+Currently, Telkomsel’s 5G services are spread over 21 points in Indonesia, namely: West Bandung Regency, Bandung City, Bandung Regency, Balikpapan City, Batam City, West Jakarta City, North Jakarta City, Surakarta City, Badung Regency, Jayapura City, South Tangerang City, Denpasar City, Central Jakarta City, South Jakarta City, West Manggarai Regency, Medan City, West Lombok Regency, Surabaya City, Sumedang Regency, Mimika Regency, and Tangerang City.
+The following are Telkomsel’s products and services  available to the public: 1.
+Telkomsel PraBayar is a new brand from the merging of Telkomsel PraBayar services consisting of the simPATI, Kartu As, and LOOP brands since June 2021.
+Telkomsel PraBayar is a new identity as a symbol of change, including integrating products and services that provide more convenience and comfort for the customer experience.
+MOBILE SEGMENT 2.
+by.
+U,  is an end-to-end digital prepaid product and  service for all telecommunications needs for Gen Z  segment users who carry out their daily lives with a digital lifestyle.
+An end-to-end digital experience that is presented through the digital by.
+U application that is installed on a smartphone covers the entire process of using services, ranging from the selection of delivery options, by.
+U telephone numbers, internet quota, additional quota (topping) to payment. 3 Telkomsel Halo, previously KartuHalo, is a postpaid cellular telecommunications product and service for subscribers who prioritize excellence in the network and product quality, communication experience, and entertainment.
+Telkomsel Halo comes in a variety of comprehensive package with exclusive excellences.
+Mobile Segment Capacity and  Development Cellular subscribers of TelkomGroup as of the end of  2021 were 176.0 million subscribers; it increased by 3.8% compared to the previous year.
+It was 95.9% of prepaid subscribers and 4.1% of postpaid subscribers.
+The registered prepaid subscriber was 168.8 million subscribers increased 3.5%, while postpaid subscriber was 7.2 million subscribers increased 10.9%.
+The increase prepaid subscriber in 2021 was due to product simplification and price optimization to maintain market relevance and lead the industry towards healthier behavior while protecting its position in the market.
+It includes a monolithic brand approach by integrating prepaid products into Telkomsel Prepaid.
+TelkomGroup continues to build reliable network capacity to remain the customer’s choice.
+Data traffic 2021    increased by 43.3%    to 13.8 million TB251,116 total BTS with  50,241  2G BTS, 63,149 3G BTS,  137,613 4G BTS, and 113 5G BTS,  increased 19,944 BTS of total  BTS. 110 PT Telkom IndonesIa (Persero) TbkIn May 26, 2021, Telkomsel officially launched 5G services  temporarily offered in 21 cities in Indonesia.
+Telkomsel will maximize the 5G usage that can change lives and implement its advantages to encourage further growth of digital connectivity, digital platforms, and digital services in Indonesia as well as the development of future technology solutions such as artificial intelligence, cloud computing, and the Internet of Things.
+These will be achieved with the settled investments in the roadmap plan and will be implemented in stages based on several considerations, including the maturity of the connectivity ecosystem.
+In mobile broadband services, TelkomGroup recorded  a 3.9% increase in subscribers, or became 120.5 million subscribers in 2021, while the data usage increased 43.3% to 13.8 million TB.
+This increase resulted from the Company’s efforts to expand its digital service portfolio, including adopting a digital lifestyle to complement connectivity while seeking growth opportunities through the latest digital initiatives.
+On the other hand, Telkomsel Orbit, a fixed wireless access service with a 4G network, had a good performance in the first year since its launch in 2020.
+Orbit has attracted as many as 340 thousand of subscribers.
+Cellular Trafic Data (TB) in 2019-2021 2019 2020 2021 6,715,2279,654,74213,837,05015,000,000 5,000,00010,000,000Along with the acceleration of digitalization due to the COVID-19 pandemic, Telkom is developing opportunities in the new digital initiatives to improve network connectivity and other customer needs.
+Mobile digital services have added various video content, music, games, and fintech.
+Telkom has also strengthened MAXstream’s position in the video streaming industry with HBO Go and Disney+ to complement video content.
+Telkom provides streaming services for LangitMusik and Telkomsel Dunia Games for music and game lovers, which combine media content, distribution, payment facilities, e-sports, and game publishing.
+For game lovers, we launched online games to expand the customer experience.
+To strengthen Telkom’s position as a leading network  provider in Indonesia, 19.9 thousand new BTS have been built in 2021.
+The BTS construction aims to support 4G/LTE services in various cities and successfully acquire 4.6 million additional mobile broadband subscribers.
+As of December 2021, Telkom has a total of 137,613 4G BTS covering more than 96% across Indonesia.
+Total TelkomGroup BTS (Units) in 2019-2021 2019 2020 2021 50,297 2G 3G 4G79,834107,523137,613 63,149 113 - -50,24182,104 60,00090,000120,000150,000 30,000 050,25273,397 5G 111 annual report 2021Mana GeMent DISC uSSIon anD anal YSISMobile Segment Financial Performance In 2021, revenue from the Mobile segment was still the main contributor to TelkomGroup’s consolidated revenue of Rp84,267  billion.
+The following table provides information on the performance of the Mobile segment over the last three years.
+MOBILE SEGMENT Description 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Revenues 0.4 87,364 6,130 87,017 91,060 Expenses (2.1) (52,929) (3,174) (54,051) (56,864) Result 4.5 34,435 2,416 32,966 34,196 The Mobile segment revenue from subsidiary Telkomsel was Rp87,364 billion, increased by 0.4% or Rp347 billion compared to the last year of Rp87,017 billion while operating expenses in this segment was Rp52,929 billion decreased by 2.1% or Rp1,122 billion.
+The increase in revenue was due to customer behavior transition from voice to data services and the higher OTT services usage had a significant impact on the profitability of the Mobile segment.
+On the other hand, internet and cellular data revenues increased 8.4% or become Rp64,500 billion in 2021.
+This  achievement shows that marketing strategies of attractive data package programs and competitive prices have increased people’s purchasing power over the COVID-19 pandemic.
+Overall, the Mobile segment still made a profit of Rp34,435 billion.   112 PT Telkom IndonesIa (Persero) Tbk CONSUMER SEGMENT 8.6 million IndiHome  subscribers, increased  7.3%  from the   previous year14.1 million optical ports as  broadband access   based on optical fiber The Consumer segment consists of fixed voice, fixed  broadband, IP-TV, and digital services under the IndiHome brand.
+IndiHome becomes one of the needs of people who worked from home during the COVID-19 pandemic so that it had a positive impact on TelkomGroup’s overall operational performance.
+IndiHome subscribers in 2021 increased 7.3% compared to last year, from 8.0 million to 8.6 million subscribers.
+Meanwhile, ARPU reached 270 thousand, it increased from the previous year of 249 thousand.
+It was due to the higher subscriber upgrade caused by the increase of bandwidth demand during the pandemic.
+The increasing needs of entertainment while at home also in line with the increasing of content sales and other addons.
+Consumer Segment Capacity and  Development IndiHome development had carried out strategically in  2021.
+Several previous development programs continued to retain subscribers, including the bundling program of broadband internet, IP-TV, and fixed telephone; sales through digital channels; and attractive promotions every year.
+Telkom launched a package specifically designed to help people who still have to study from home or are involved in online learning activities (“Special Package for Students, Teachers, and Journalists”).
+Telkom has also provided special packages for worship places to support their online activities during the COVID-19 pandemic.
+IndiHome cooperates and collaborates with several local  video-on-demand (VOD) of Vision+ and the millennial creative content creator of CXO Media for the millennials.
+It aims to provide a variety of programs and unique content for the younger generation of Indonesia in particular, one of which is the K-Pop program.
+Various programs and content will be available with this collaboration, such as K-Pop festivals, talk shows, concerts, etcetera.
+IndiHome commits to providing quality digital entertainment and services to deliver the best digital experience for subscribers to have unlimited activities with IndiHome.
+In addition, IndiHome maintains its position as the largest and most comprehensive provider of TV channels in Indonesia with HD quality and several channels with Dolby audio.
+In collaboration with various leading OTT video streaming providers, IndiHome provides diverse video content.
+Subscribers can choose from multiple minipacks that can be easily activated to be tailored to their preferences and affordability.
+IndiHome TV is still developing as one of the IPTV services.
+Telkom’s IPTV services include linear TV channels, TV-on-demand, video-on-demand (VOD), and extensions to OTT services with the UseeTV Go application and the UseeTV.
+com website to enjoy a multi-screen and TV content anywhere.
+Fulfilling subscribers’ expectations in getting the sensation of watching a cinema at home, Telkom is still enriching IndiHome TV channels variety in Standard Definition, High Definition to High Definition with Dolby Support, i.
+, HITS, HITS Movies, TLC, Paramount, Techstorm, Horizon Sports, My Cinema, My Cinema Asia, My Family, and in-house TV channels of IndiKids, one of 8 in-house IndiHomeTV channels, with premium programs such as Liga 1, BWF, Coppa Italia, and Intimate Concert.
+IndiHome TV Channel broadcasts 233 channels (149 SD channels, 79 HD channels, and 5 channels with Dolby).
+Although all Pay TV in Southeast Asia was affected   by the discontinuation of Disney Group channels,  IndiHome maintains the service quality by providing Disney content with the OTT Disney+ Hotstar application on all screens, including the IndiHome Android TV Set Top Box.
+In addition, we offered new premium OTT applications such as Lionsgate Play, a leading production studio and Hollywood movie provider; Viu, the leading OTT provider for Asian content; and Vision+, a leading content provider particularly in local dramas.
+Along with current OTT services such as Catchplay+, Mola, Vidio, WeTV Iflix & UseeTV Go, IndiHome TV presents 9 OTT services while enriching IndiHome as the “Jendela Hiburan”. 113 annual report 2021Mana GeMent DISC uSSIon anD anal YSISThe development of IndiHome is also by releasing a new  VOD and GameQoo cloud game service for IndiBox users.
+Telkom also offers wifi.
+id service to IndiHome subscribers to enjoy unlimited high-speed internet access at all wifi.
+id access points in Indonesia.
+The challenge to maintain IndiHome services quality was  still there in 2021.
+We strived to provide the best subscriber experience and ensured our subscribers to feel convenient and pleasant when using IndiHome products.
+The strategy we used was continuously updating the myIndiHome application with the latest version.
+It offers various solutions and conveniences for subscribers to manage IndiHome services anywhere and anytime using a smartphone.
+The newest version of the myIndiHome application presented the new exciting concept.
+Various excellent features make subscribers have their transactions in one application.
+They can conveniently manage the technician schedules at their request.
+The technician’s work progress can also be monitored anywhere with the application which make the subscribers feel ease and safe.
+With the latest myIndiHome, subscribers can also get the IndiHome new installation and repairment easier.
+The innovation and improvisation of the myIndiHome application was inspired by subscriber input, followed by internal business process improvement, and we developed it using the latest digital technology for the best digital experience for subscribers.
+In the future, the application will be equipped with biometric features with artificial intelligence (AI) technology so that subscribers can quickly access applications with facial recognition without access codes and passwords.
+The other challenges were increasing the average revenue  per user (ARPU) and reducing the churn.
+Network infrastructure reliability is one of the keys to the success of managing these challenges.
+As of 2021, Telkom has 14.1 million optical ports with fiberoptic-based for fixed broadband access networks.
+The optical fiber (T-Cloud) used in 2021 was 1,128 T-Cloud.
+Strengthening the Mean Time To Install (MTTI) and Mean Time To Repair (MTTR) continued by increasing the technicians’ capacity and improving business processes.
+Telkom Akses, a subsidiary of Telkom, could manage access networks through the Telkom Akses Command Center which digitally integrated.
+This facility can also detect potential disturbances fast in an area to be repaired immediately.
+Consumer Segment Financial Performance The financial performance of the Consumer segment has contributed 13.3% to TelkomGroup’s consolidated revenue.
+The following table shows the performance of the Consumer segment for the last three years.
+CONSUMER SEGMENT Description 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Revenues 13.6 25,117 1,762 22,105 18,492 Expenses 9.6 (19,223) (1,349) (17,544) (15,904) Result 29.2 5,894 413 4,561 2,588 The increase in the number of IndiHome subscribers has improved the Consumer segment revenue.
+Revenue from this segment in 2021 was Rp25,117 billion, increased by 13.6% or Rp3,012 billion compared to last year of Rp22,105 billion.
+Expenses on the Consumer segment was Rp19,223 billion, increased by 9.6% or Rp1,679 billion compared to the previous year.
+Thus, the Consumer segment had a profit of Rp5,894 billion.
+IndiHome’s profitability was better, with EBITDA margin reaching 46.7%. 114 PT Telkom IndonesIa (Persero) Tbk 1,517 corporate  customers, 358,001   MSME  customers,  and 930 government  institution customers2 satellites  with 109   TPE capacity3 data centers with a specification  of tier 3 and 4  (domestic)ENTERPRISE SEGMENT Telkom provides TIC services and platform services in  the Enterprise segment consisting of enterprise-grade connectivity services, satellite, data center & cloud, digital IT services, business process outsourcing, and device & other adjacent services to provide end-to-end solutions and information technology ecosystem.
+The markets for this segment are corporate, micro, small, and medium enterprises (MSMEs), and government institutions.
+The Enterprise segment is still under pressure from  the impact of the COVID-19 pandemic until now.
+Some loyal customers whose businesses have been affected by COVID-19 need to improve operations and adjust to recover in 2021.
+TelkomGroup identified this challenge and continues to make fundamental improvements and increase consultative selling.
+In 2021, we focused on the B2B IT service business with product development based on industrial vertical solutions and horizontal platform solutions.
+The prioritized vertical industries in this solution are logistics, health, education, government services, and finance.
+Enterprise Segment Capacity and  Development The performance of the Enterprise segment is always  maintained following the strategy and policy to focus on the higher profitability and recurring business lines, especially on enterprise solutions such as enterprise connectivity, data center, and cloud.
+We are also selectively reducing and starting to de-prioritize business solutions with relatively low margins and non-recurring.
+Connectivity services in the Enterprise segment are fixed  broadband, Wi-Fi, ethernet, and data communication, including leased channels such as metro ethernet, VPN-IP, and high-capacity data network solutions.
+It provides point-to-point connections, as well as fixed voice services.
+In 2021, TelkomGroup provided a total bandwidth in service of 3,050 Gbps, with 1,467 Gbps for corporate internet and 1,582 Gbps for data communication customers.
+It was higher 1.7% from the previous year.
+To support connectivity services, Telkom, with its  subsidiary Telkomsat has integrated satellite services with a transponder capacity of 109 TPE and leased to third parties with around 43.11 TPE.
+Customers can rent satellite transponder capacity with this satellite service for broadcasting and VSAT operators, cellular telephones, ISPs, and get up-link and down-link satellite earth station services.
+In the future, Telkom plans to launch High Throughput Satellite (HTS), which is considered suitable for satellite broadband subscribers.
+Telkom continues improving various data center facilities  and cloud services to improve services to the Enterprise segment customers.
+Telkom’s subsidiary, Telkomsigma, currently has 3 data centers in Indonesia, with around 80% of its used capacity.
+The launch of the FLOU cloud service in 2020 successfully met the customers’ hybrid cloud needs for the MSME/SME segment, startups, and enterprises with a flexible package.
+The rapid IT developments during the COVID-19  pandemic has encouraged MSME to transform to digital immediately.
+To support MSMEs in developing their business by optimizing digitalization, Telkom has launched the mysooltan application, a Digital Touch Point specially designed to help their needs build readiness and speed of digital transformation.
+mysooltan presents a reliable solution to MSMEs in their business operation, such as internet service sooltanNet, business application sooltanPay, sooltanKasir, and sooltanToko.
+Currently, mysooltan can be accessed at https://mysooltan.
+id/ or downloaded via the Google Play Store.
+In the future, we  115 annual report 2021Mana GeMent DISC uSSIon anD anal YSISwill still develop mysooltan to make it easier for MSMEs  to run their business.
+Therefore, users’ feedbacks will be beneficial as a learning source for the development to keep up with the MSMEs’ needs.
+TelkomGroup continues improving IT capabilities and  digitizing to meet future needs.
+TelkomGroup provides business process management, business process as-a-service, and customer relationship management for system integration and IT service management.
+We also have developed a digital advertising agency in media placement and integrated digital media, such as mobile advertising, online advertising, and digital printing.
+We have developed a platform to support these activities that provides insight into consumer behavior analysis and creates marketing campaigns based on big data and data analytics.
+TelkomGroup provides various adjacent services related to hardware & software sales, including IT support services.
+TelkomGroup also delivers Internet of Things (IoT) solutions for buildings, develops IoT applications for smart energy monitoring management, fleet management, IT security services, unified communication, and collaboration services.
+The wide-coverage fiber optic-based infrastructure  network is the service excellence in the Enterprise segment, which we are consistently strengthening and improving.
+Along with customers’ increasing needs in this segment, TelkomGroup will innovate and manage various products and services to provide total solutions to customers.
+As of 2021, the Enterprise segment had 360,448 customers consisted of 1,517 corporate customers, 358,001 MSME customers, and 930 Government institutions.
+Enterprise Segment Financial Performance Enterprise segment revenue contributed 13.4% of the total consolidated revenue in 2021.
+The performance of Enterprise segment for the past three years can be seen in the following table: ENTERPRISE SEGMENT Description 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Revenues 14.4 41,536 2,914 36,320 35,535 Expenses 13.5 (41,843) (2,936) (36,864) (36,768) Result 43.6 (307) (22) (544) (1,233) Enterprise segment revenue increased by 14.4% or Rp5,216 billion in 2021 and recorded at Rp41.536 billion.
+The increase compared to the previous period was due to the increase in other information technology services revenues which grew by 70% or Rp657 billion, network revenues which grew by 41.9% or Rp321 billion, manage service and terminal revenue which grew by 58.6% or Rp756 billion, and call center service revenue which grew by 30.6% or Rp237 billion.
+These increases were compensated by the decrease in short messaging services (SMS) revenue, while expenses were Rp41,843 billion, which increased by 13.5% or Rp4,979 billion compared to last year.
+Thus, the Enterprise segment recorded a loss of Rp307 billion at the end of 2021. 116 PT Telkom IndonesIa (Persero) Tbk WHOLESALE AND INTERNATIONAL BUSSINESS (WIB) SEGMENT 170,885 km  total optical  fiber backbone  network  (106,185 km  domestic and  64,700 km  international)120 Point of  Presence  (PoPs) (58  international  PoPs & 62  domestic  PoPs)26 data  centers  (5 overseas  data centers  & 21 domestic  data centers)36,761 towers (28,206   Mitratel  towers, 555  Telkom  towers,  and 8,000   Telkomsel  towers) The Wholesale and International Business (WIB)  segment has several business lines namely domestic and international services for wholesale traffic, network, digital platform & service, tower and managed infrastructure & network.
+In this segment, TelkomGroup provides services for Other Licensed Operators (OLO), Service Provider, and Digital Player domestic and overseas.
+In 2021, the performance of the Wholesale & International Business segment was relatively stable.
+However, TelkomGroup is still striving to prepare new business innovations and initiatives for maintaining its profitability.
+Wholesale and International Business  (WIB) Segment Capacity and Development  1.
+Carrier Service  The wholesale traffic & network business line  provides network, data and internet services, and interconnection services.
+TelkomGroup also offers value-added services, signaling, voice hubbing, data centers, platforms, and solutions to enhance this service.
+Wholesale traffic & network service grew positively in 2021, contributed by Domestic & International Network, A2P SMS and Data Center.
+The Enabler Digital Ecosystem initiative for carrier service development continued in 2021.
+SEA-ME-WE 5 and SEA-US submarine cables have been installed and support the delivery of direct broadband connectivity between Europe, Asia, and America.
+This development has become the main gateway for digital connectivity bridging domestic traffic to global, global traffic to domestic, and between countries (hubbing), both voice and A2P (application-to-person) SMS.
+Due to customers’ consumption habits transition during the COVID-19, with the most services were application-based, the service utilization remarkably helped customers with digital activities from home, such as working or studying from home by accessing specific applications that need authentication and broadcast information, which it increased the SMS A2P demand in 2021.
+Currently, TelkomGroup has 18 neuCentriX data centers in 13 cities.
+PT Telekomunikasi Indonesia International (Telin) has 5 overseas data centers located in Singapore (Telin-1, Telin-2 and Telin-3), Timor Leste (1 location), and Hong Kong (1 location).
+In 2021 the average occupancy rate for the neuCentrIX data center was 50.83% of its total capacity, while the average data center occupancy overseas was around 78%.
+To provide maximum service and complement the existing data centers, TelkomGroup built the Telkom HyperScale Data Center tiers 3 and 4.
+The Telkom HyperScale Data Center development intends to support Indonesia’s digital transformation and support the G20 implementation.
+In supporting the G20 activities, Telkom has provided the backbone infrastructure for the Marine Cable Communication System (SKKL) and the Fiber Optic Communication System (SKSO) with an integrated backup system.
+On the other hand, TelkomGroup has 120 Points of Presence (PoP), consisting of 58 Global PoPs in 28 countries and 62 Domestic PoPs in 48 cities.
+In 2021, Telkom added 3 Domestic PoPs.
+Another service in this line is the Content Delivery Networks (CDN) operation with a capacity of 12,215 Gbps, which increased by 15.8% compared to last year.   117 annual report 2021Mana GeMent DISC uSSIon anD anal YSISWHOLESALE AND INTERNATIONAL BUSSINESS (WIB) SEGMENT 2.
+Tower Service  TelkomGroup serves the procurement and installation  of telecommunication devices for other operators with a leasing system.
+In managing this service, TelkomGroup through Mitratel will make offers for co-location and the operator’s tower reseller business.
+Currently, Mitratel manages 42,594 tenants and 2,816 reseller towers.
+As of 2021, TelkomGroup managed around 36,761 towers, with 28,206 towers of Mitratel, 555 towers of Telkom, and 8,000 towers of Telkomsel.
+Mitratel, as a subsidiary of Telkom, has a significant role in supporting the increase in tower leasing revenue.
+To improve business development, Mitratel had an initial public offering (IPO) on November 22, 2021.
+This corporate action was part of TelkomGroup’s transformation commitment as it implemented the company’s tower strategy of unlocking business value.
+TelkomGroup expects Mitratel to support the national digitalization acceleration to experience the upcoming 5G era and achieve the nation’s objective: to become one of the countries with the most prominent digital economy, especially in the Asia Pacific by 2025.  3.
+Infrastructure Services and Network Management  In this line, TelkomGroup provides and manages network infrastructure and services.
+It includes the construction and maintenance of networks, consisting of the installation and maintenance of submarine cables and the energy solutions provider.
+TelkomGroup already has a fiberoptic backbone network of 170,885 km, consisting of 64,700 km of the   international network and 106,185 km of the domestic network with a total capacity of 169,600 Gbps.
+TelkomGroup has a connection network for Europe, Asia, and America through the submarine cable infrastructure.
+Telkom also operates and owns the license of fiberoptic backbone network with a total of 134,040 km under a permanent telecommunications lease agreement with other global submarine cable operators/consortiums.
+In 2021, TelkomGroup was honorably to support digitalization in the Mandalika area, regarding the appointment of Mandalika as the host of the World Superbike in November 2021 and MotoGP in March 2022.
+Telkom is an ICT infrastructure provider and a supporter of MSMEs and the ecosystem in the nearby area.
+TelkomGroup performed network deployments for ICT infrastructure, including backbone expansion, fiber optic deployments at the event locations and supporting ecosystems, and Telkomsel’s Node B Combat addition for ICT needs of 7.22 Gbps.
+It is available in the MASIV (Media, Accommodation, Security, International Airport, and Venue) area with View, Internet, and Phone (VIP) services.
+For submarine cable’s deployment and maintenance, Telkom through its subsidiary of Telkominfra still improves its capability by collaborating with the vessel’s provider of submarine cable or its procurement preparation as TelkomGroup’s asset.
+Telkom, with its subsidiary of Telkominfra, cooperates with State-Owned Enterprises (SOEs) to maintain diesel engines until 2021 regarding the energy solutions.
+It started with the diesel power plant construction for telecommunications networks in 2017 located in Kalimantan and Sulawesi.  4.
+International Business  Its subsidiary, PT Telekomunikasi Indonesia International (Telin), manages and develops its business activities in Singapore, Hong Kong, Timor Leste, Australia, Myanmar, Malaysia, Taiwan, United States of America, and New Zealand.
+Telkom regularly analyzes and assesses overseas operations for profitability, prospects, and position to optimize the portfolio structure as a consideration in making future investment decisions.
+Telin provides wholesale services, cloud and connectivity, data center and managed services, retail mobile services (MVNO), IP transit, and business process outsourcing services in this business line.
+Telin still uses the new neuCentrIX data center capacity and develops the NeuAPIX cloud-based CPaaS service with omnichannel communication features (bots and live chat, real-time voice capabilities, SMS, emails, video calls, and messaging service).
+In addition, the NeuTrafiX launch, a web-based public exchange platform, has helped connect buyers and sellers efficiently and transparently regarding wholesale voice, SMS, and virtual numbers trading.
+Wholesale and International Business Segment Financial Performance  In 2021, the WIB segment contributed 17.1% to the total consolidated revenue, with the WIB revenue of Rp32,327 billion.
+WIB has a significant role in TelkomGroup, an enabler, and catalyst for other business segments to create value.
+Most of WIB’s income was from from providing various services, i.
+, network, interconnection, internet, submarine cable, data center, tower, and infrastructure throughout the year.
+WIB SEGMENT Description 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Revenues 9.1 32,327 2,268 29,640 26,874 Expenses (0.03) (23,135) (1,623) (23,143) (21,111) Result (41.5) 9,192 645 6,497 5,763 WIB segment revenue in 2021 was Rp32,327 billion increased by 9.1% or Rp2,687 billion compared to the previous year.
+This increase was due to the revenue growth from internet, data communication and information technology services by 29.6% or Rp681 billion and interconnection revenue by 2% or Rp143 billion.
+The expenses incurred for the WIB segment were Rp23,135 billion, decreased by 0.03% or Rp8 billion compared to last year.
+WIB segment recorded a profit of Rp9,192 billion in 2021.   118 PT TELKOM INDONESIA (P ERSERO ) TBK 119 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS 50 million Digital Music  active users27 million Digital Games paid  usersOTHERS SEGMENT In this segment, Telkom offers a variety of digital products  and services based on big data, smart platforms, digital advertising, digital entertainment (music & games), and e-commerce.
+In addition, Telkom also manages venture capital funds through PT Metra Digital Innovation (known as MDI Ventures).
+In 2021, Telkom invested in several digital startups that have growth potential in the future and invested in companies that can enhance TelkomGroup’s business performance.
+Others Segment Capacity and  Development Telkom offers big data and smart platforms services of  BigBox and an Internet of Things (IoT) platform of Antares for Enterprise segment customers.
+Through Bigbox, developers and startup companies can experience big data platforms with various services, such as analytics, data & business solutions, and API provider platforms to help grow their business.
+Telkom launched the One Data Management Platform  in 2020 to support the government.
+Telkom works on projects regarding the IoT smart platform that can increase people’s life productivity and quality, such as Smart Manufacturing projects, Air Pollution Monitoring, Smart Electricity, Waste Management, and others.
+Telkom manages digital advertising and provides  advertising media solutions to support marketing activities with the UZone.
+id news portal and an ad exchange platform of UAds to connect publishers, advertisers, and agencies.
+Therefore, it expects digital advertising activities could be more effective and efficient.
+Telkom manages digital entertainment through its subsidiary, PT Melon Indonesia, which provides digital music services with ringback tones of Nada Sambung Pribadi (NSP) and music streaming of Langit Musik.
+Moreover, it also includes game services with UPoint.
+Digital music services in 2021 had 50 million active users (31 million users from music streaming and 19 million users from NSP) with 188 million transactions (65 million users from music streaming and 123 million users from NSP).
+Meanwhile, Melon Indonesia has launched more than 20 games that have been distributed, with the digital games paid services users around 27 million paid users.
+We launched several digital platforms and digital services  to support people’s connectivity, namely, Pasar Digital (PaDi) for MSMEs, Xooply for the non-SOEs Enterprise segment, Agree (agricultural and fisheries ecosystem), LOGEE (logistics ecosystem), wonderin.
+id (tourism ecosystem), Pijar (educational ecosystem), gameQoo (games), and others.
+In addition, Telkomsel is collaborating with Gojek to strengthen strategic partnership initiatives for providing new benefits to users and also helping accelerate the MSMEs digitization.
+The initiatives are: 1.
+Collaborate to increase Telkomsel users in the Gojek  ecosystem. 2.
+Easy onboarding for Gojek’s MSME partners to become Telkomsel reseller partners. 3.
+Easy access to Telkomsel outlets and resellers via GoShop. 4.
+Improve customer experience in Gojek services with the Number Masking feature from Telkomsel’s Enterprise solution. 5.
+Forming a new GoTo entity as a synergy initiative to expand to Tokopedia. 120 PT Telkom IndonesIa (Persero) TbkOn the other hand, MDI Ventures serves as corporate  venture capital with its investing, synergy, portfolio management,   value creation, and fundraising activities.
+After making financial investments, MDI Ventures combines the Venture Capital model by providing synergy access in TelkomGroup to startups.
+MDI Ventures investments focus on high growth business verticals to enhance the digital experience and provide the best services to improve customer experiences, such as logistics, financial technology, cloud computing, agritech/food, deep tech, digital life, healthtech, new retail, and Internet of Things.
+In 2021, MDI Ventures invested in 20 new startups, bringing the cumulative total to 50 startups across 12 countries.
+MDI Ventures funding consists of three types, namely: Others  Segment Financial Performance Others segment revenue in 2021 contributed 0.1% of TelkomGroup’s total revenue.
+The performance of Others segment for the last three years can be seen in the following table: OTHERS SEGMENT Description 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Revenues 47.0 2,600 182 1,769 1,486 Expenses 44.5 (2,401) (168) (1,662) (1,546) Result (86.0) 199 14 107 (60) In 2021, revenue for the Others segment was recorded at Rp2,600 billion, increased by 47.0% or Rp831 billion from the previous year.
+In terms of expenses, it recorded at Rp2,401 billion, it increased by 44.5% or Rp739 billion.
+Overall, the Others segment recorded a profit of Rp199 billion.
+• Centauri Fund, in collaboration with KB Financial Group (Kook Min Bank) from South Korea, focuses on growth-stage startups.
+The goal is to support Indonesian and regional startups, especially in technology startups, including financial technology, e-commerce infrastructure, Software as a Service (SaaS), and big data.
+• Arise Fund, launched in 2020 where MDI collaborates with Finch Capital Netherlands, focuses primarily on early-stage startups for Indonesian technology startups. 121 annual report 2021Mana GeMent DISC uSSIon anD anal YSISLEVERAGE ASSET PROGRAM   Following the Company’s strategy to accelerate the digital ecosystem, we prioritize to increase the building assets and  network devices utilization on the digital capacity expansion and data centers development in data-intensive areas while leveraging our sizable property asset portfolio in lower data usage regions by external partnerships & cooperation.
+In addition, it also aims to support in providing efficient space for Telkom’s legacy network equipment and providing office space to enhance employee productivity.
+The utilization process is conducted by Telkom’s subsidiary, PT Graha Sarana Duta (Telkom Property).
+We expect Telkom Property’s various services would increase property assets utilization and digital ecosystem diversification.
+In 2021, we prioritized the building or room conversion to data centers for accelerating the services and products  digitization in the areas with high data traffic.
+We expected this initiative would support the customer digitization acceleration, mainly to provide equal ICT services and solutions across Indonesia connected to a global network.
+In addition, Telkom also utilizes idle property through partnerships by collaborating with retail and food & beverage  businesses which we expect to add value to our land and building assets and provide additional income in asset management.
+However, it had operational decline in the mid-year, especially during the peak of the Delta variant cases and under the Government’s restrictions on community activities.
+Therefore, we shifted our focus to revitalizing old buildings and office spaces to align with our theme as a digital company.
+Our leveraged projects have improved slightly after the 4 th quarter, we were still focusing on our digital business ecosystem by the coorperation in e-commerce co- warehousing, fulfillment center collaborations, and cloud kitchen facility partnerships.
+We also commercialize stand-alone restaurant branches in cooperation with global fast-food chains.
+In addition, we are still modernizing building management by digitizing the administrative and operational processes and visitor access.
+One of the idle property utilization in STO Legok by partnering with F&B retail. 122 PT Telkom IndonesIa (Persero) TbkMARKETING   OVERVIEW MARKET SHARE   TelkomGroup constantly monitors technological  developments and responds to market dynamics for competing in the domestic and global markets.
+TelkomGroup still creates products, services, standards, and business models in line with the latest developments to maintain its competitive advantage and lead the competition.
+Therefore, Telkom and its subsidiaries collaborate to invest in technology and infrastructure for increasing its value and providing the best digital experience for customers.
+Mobile Segment Market Share We identify a positive trend of user engagement with the higher data users, and it has a reliable prospect due to its good fundamentals and an extensive network.
+In 2021, Telkomsel was the first operator offering the first 5G network in Indonesia, so it is one step ahead of competitors competing to prepare the 5G network.
+As of 2021, Telkomsel had 176.0 million cellular  subscribers, including 120.5 million mobile broadband subscribers.
+It increased by 3.8% for cellular subscribers and 3.9% for mobile broadband subscribers compared to the previous year.
+Based on the subscribers, Telkomsel’s market share among the 3 major operators in Indonesia was 59.3% for the Mobile segment, it was stable compared to the previous year.
+Cellular Subscribers Market Share for Telkomsel   and Competitors 2019-2021 2019 2020 2021 Telkomsel Competitors40.4%100% 50% 0%58.9% 41.1%59.6% 59.3% 40.7%Although the surging demand in cellular data will positively impact the Mobile segment’s performance, it is not proportional to the mobile operators’ revenue.
+It was due to the intense competition among mobile operators, even worsened by the customer behavior transition from mobile broadband to fixed broadband.
+Providers’ competition to provide complete network access at affordable prices is increasing.
+Telkomsel performed a well-planned marketing strategy to maintain positive profitability and market share.
+The Mobile segment needs to consider another factor to  maintain its stable market share: competition with Over-The-Top (OTT) services.
+The advanced digital technology has enabled OTT services to provide low-cost voice, text, and data services with broad networks.
+In addition, the intense smartphone penetration also supports OTT services, which will put pressure on TelkomGroup’s business and finances, particularly Telkomsel.
+Consumer Segment Market Share The limited mobility that prompts customer habits changes to adjust working and to study at home using communication network facilities has had a positive impact on the Consumer segment.
+It also encourages all telecommunications providers to compete in providing total network access at affordable prices.
+Through IndiHome, Telkom can compete to meet people’s digital connectivity needs.
+IndiHome is one of the growth factors for TelkomGroup’s business and has a role as a new growth engine that increases revenue very well.
+The challenge is that IndiHome has to compete with other  major fixed broadband service providers such as First Media, Biznet Home, MNC Play, and MyRepublic, where the most challenging competitor is First Media, which has the highest subscribers.
+IndiHome’s middle and upper-class household customers’ competitors are MNC Play and MyRepublic in Greater Jakarta.
+Biznet is for retail customers in Java, Bali, and Sumatera.
+We also monitor new competitors, namely ICON+, a PT Perusahaan Listrik Negara (PLN) subsidiary which has started offering internet and TV services since 2019, and the Gasnet of Perusahaan Gas Negara (PGN).
+In addition, we should consider that XL Axiata has developed home services with XL Home Fiber, so we should notice it with the focus of infrastructure development in Java and Kalimantan. 123 annual report 2021Mana GeMent DISC uSSIon anD anal YSISIndiHome’s fixed broadband marketing has succeeded in  gaining 0.6 million additional new subscribers, bringing the cumulative to 8.6 million subscribers by the end of 2021.
+Therefore, IndiHome can dominate the market share in fiber-based fixed broadband services.
+The IndiHome coverage network has reached 97% of Indonesia’s regencies/cities or 498 regencies/cities.
+Fixed Broadband Market Share for IndiHome   and Competitors 2019-2021 2019 2020 2021 86.5% 13.5%100% 50% 0%82.3% 80.2% 17.7%19.8% Indihome Competitors In 2021, TelkomGroup recorded negative growth for fixed voice products and services.
+It is as the decrease of fixed wireline subscribers (POTS) of 1.3% or 0.1 million subscribers.
+Therefore, TelkomGroup has been migrating its customers from home legacy products and services to IndiHome for the past few years.
+It aims to integrate fixed voice with fixed broadband and IP-TV based on digital connection with fiberoptic cable into one product and service.
+Enterprise Segment Market Share TelkomGroup still encourages the growth of digital services such as the internet of things (IoT), cybersecurity, big data, and digital advertising to improve the performance of the Enterprise segment.
+They complement various products and services of connectivity, satellite, IT services, data center, and cloud that accommodate the Enterprise segment customers.
+In addition, the BigData and BigBox platforms have offered solutions, analysis, and in-depth understanding to help the companies business needs.
+The two platforms will help their decision-making, governance, strategy formulation, and various going forward insights useful for their business.
+In 2021, TelkomGroup has succeeded in providing a  bandwidth of 3,050 Gbps, or higher 1.7% from 2020.
+The market share of TelkomGroup bandwidth in services was around 59.1% in 2021, or increased by 0.4% from last year.
+Through Telkomsigma, a Telkom subsidiary, TelkomGroup’s  system integration market share in 2021 was 14.2%.
+The market share of Business Process Outsourcing (BPO) from Infomedia, a subsidiary of Telkom, has grown 3,7%.
+On the other hand, TelkomGroup dominates the 27.0% market share of the satellite business.
+System Integration Market Share for Telkomsigma   and Competitors 2019-2021 2019* 2020 2021 Telkomsigma Competitors78.4%100% 50% 0%17.0%14.2%83.0% 85.8% 21.6% Remarks: *Restatement Wholesale & International Business  Segment Market Share Wholesale and International Business (WIB) segment  delivers services to other license operators (OLO), service providers, digital player, and global wholesalers and carriers.
+In this segment, TelkomGroup also serves other global companies of international data centers and connectivity, and also retail customers of mobile network operators (MNO) and international mobile virtual network operators (MVNO). 124 PT Telkom IndonesIa (Persero) TbkThe market share of the WIB segment includes business  activities of carrier traffic, carrier network, tower, and managed network & infrastructure services.
+In 2021, the Wholesale line was relatively stable but still needs to be improved so that TelkomGroup prepares a new business portfolio to support the Company’s position by building Hyperscale Data Center with targets of Ready for Sale to enterprise and wholesale customer in Q2 2022.
+In the International Business segment, TelkomGroup increased its data center capacity in Singapore and Hong Kong in line with the increasing demand for data centers in the market.
+TelkomGroup is still the market leader in carrier traffic with  voice interconnection dominance of 84.1%.
+Meanwhile, TelkomGroup has a wholesale network market share of 62.3%, while the domestic wholesale market share is 20.3%.
+Metro E products and leased lines support the wholesale network, while IP Transit products support the domestic wholesale network.
+On the other hand, TelkomGroup operates its wireless  telecommunication tower business through Mitratel.
+Mitratel’s market share was 31.7%, increased from the previous year of 26.9%.
+To face competitors, TelkomGroup strengthens Mitratel’s business fundamentals by transferring ownership of Telkomsel’s tower to Mitratel.
+Therefore, Telkom strives to provide optimal value to shareholders by optimizing business and assets and ensuring that subsidiaries can focus on their business lines’ development and improvement.
+Telkomsel has transferred 10,050 telecommunications towers to Mitratel.
+Thus, Mitratel would become one of the largest tower providers in Indonesia.
+Tower Market Share form Mitratel   and Competitors 2019-2021 2019 2020 2021 Mitratel Competitors76.1%100% 50% 0%26.9%73.1% 23.9%68.3% 31.7% With the increasing public demand for telecommunication facilities, Mitratel also leases towers to other operators that require a location to place their telecommunication equipment.
+Although this activity aligns with regulations requiring telecommunications companies to share infrastructure and network capacity, it remains a challenge for TelkomGroup.
+It is a challenge because Telkom already has the most expansive network infrastructure capacity in Indonesia, but competitors could use Telkom’s infrastructure network with more affordable capital and expenses.
+Digital and Others Segments   Market Share Others segments have a diverse portfolio, particularly digital services.
+The digital service portfolio grouping consists of smart platforms, digital content access, and e-commerce.
+Telkom also manages venture capital funds through its subsidiary MDI Ventures, investing the digital startups in this segment. 125 annual report 2021Mana GeMent DISC uSSIon anD anal YSISTelkomGroup’s smart platform business line consists  of digital advertising, intelligent applications, big data, IoT, and financial services.
+LinkAja is an e-money service provided by Telkomsel for digital solutions that enable its consumers to have safe, easy, and simple banking activities.
+Telkomsel has 24.27% equity in Finarya as the owner of LinkAja.
+In 2021, investment activities and strategic partnerships with Gojek were ongoing, which allowed TelkomGroup to expand the digital ecosystem, get closer to digital service customers, and benefit from co-branding and joint promotion activities.
+The digital content business line consists of music  and games, where Telkom focuses on providing an entertainment experience to cellular subscribers.
+The services are applications for the music of Langit Musik and ringtones and GameMax, combining game content data for several games and game vouchers.
+In the e-commerce line, Telkom focuses on B2B  e-commerce opportunities through PaDi UMKM to expand the MSME business ecosystem and Xooply for the non-BUMN Enterprise segment for more diverse suppliers.
+The management of venture capital funds is also still  developing to invest the digital startups.
+Currently, MDI Ventures focuses on investing in high-growth business verticals providing customers the best digital experiences and services, such as financial technology, cloud computing, big data, health technology, e-commerce, IoT, and other services.
+By 2021, MDI Ventures had invested in 20 new startups in Indonesia, India, Singapore, and the United States.
+Since 2016, MDI Ventures has invested in more than 50 startups in 12 countries.
+MARKETING STRATEGY   TelkomGroup operates its business to support marketing, with its very competitive, strategic, and comprehensive distribution channel for products and services.
+The brand improvement is also separate competitiveness for anticipating the market.
+TelkomGroup strives to be the customer’s choice to keep increasing sales by demonstrating its commitment to providing the products and services added value and improving customer experience.
+TelkomGroup also notices the offering prices according to the market’s ability to stay in a good range by managing the network utilization, traffic load, and revenue.
+TelkomGroup is taking advantage of the global momentum to become part of the marketing strategy that impacts consumer demand for telecommunication and digital services.
+The global momentums were the government’s policy of getting the life activities online from home, the transition from industry 4.0 to industry 5.0 as the people worldwide need faster digital access, as well as expansion opportunities such as building telecommunications infrastructure across Indonesia, having various collaborations, and transforming into a digital telco.
+Telkom has implemented the planned marketing  strategy to increase business profitability.
+The strategies are expanding the market and strengthening the digital ecosystem; collaborating with other strategic companies, especially in building a sustainable digital ecosystem; continuing developing products and services; building a close relationship with customers; and maintaining the network to provide customers optimal services.
+The need for a good connection is unnegotiable amid  current conditions, so Telkom’s strategies to maintain the network and provide full service to customers are: • Upgrade and add adequate capacity to maintain good services.
+• Monitor network reliability with an integrated command center (TIOC).
+• Have a maintenance team that conducts regular control to prevent disturbances or intrusions, equipped with applications so that the team can handle end-to-end problems.
+One of the marketing challenges that we should manage is overcoming product and service disruptions.
+It is related to the technicians’ limitation allowed to work in the field during the COVID-19 pandemic, thereby slowing down the mobility and recovery process.
+The challenge then lowers customer satisfaction and negatively impacts marketing strategy.
+TelkomGroup applies priority policies based on the area to overcome the challenges.
+TelkomGroup has realized a 5G network regarding  customer satisfaction for the wireless network in particular.
+Through its subsidiary, Telkomsel, Telkom has officially presented the latest generation of internet network ‘5G’ in Indonesia in May 2021.
+This strategy will support the digitalization acceleration and the peoples’ digital life experience and fulfill the MSMEs, corporations, and all  126 PT Telkom IndonesIa (Persero) Tbkbusinesses’ demands to advance their development in  Industrial Revolution 4.0 era.
+It made Telkom the first telecommunications company in Indonesia that provides a 5G network for all social levels, from end-users to industry.
+In addition, the Telkom implementation of 5G will be a game-changer in the telecommunications industry and eventually will positively impact the Company’s growth.
+Mobile In general, the marketing and development strategies in the Mobile segment are focusing our marketing strategy on targeting specific customer segments and personalizing offerings delivered through digital channels for efficient implementation.
+In addition, Telkomsel, as a subsidiary of Telkom,  remains focused on finding the right balance of market share, revenue, and profitability growth.
+Some strategy implementations provide products and services to specific customer segments and personalize offers through digital channels to get more efficient.
+Telkomsel also attempts to increase payload growth and acquire new data users by improving the network quality, services, product offers, and digital capability while it accelerates and expands its digital ecosystem.
+In addition, Telkomsel partners with other parties to encourage higher data usage and digital products.
+It is by enriching content on existing platforms and continuing the “more for more” programs, which allow customers to get more attractive add-ons and features to encourage value creation and increase ARPU (ARPU uplift) during the COVID-19 pandemic particular.
+We launched low denomination packages during the pandemic such as Ketengan-the lower denomination, OMG (Oh My Gigabytes) Internet, and Paket Belajar.
+In 2021, Telkomsel introduced new identity as the symbol  of change and commitment to continuously adapting and being relevant that can answer various challenges through a more comprehensive digital transformation roadmap continuation of the Company.
+This new face of Telkomsel also brings the spirit of renewal for several product brands with the integration of products and services that provide more convenience and comfort for customers’ experience thru Telkomsel Prepaid and Telkomsel Halo.
+We continued offering our digital prepaid brand of by.
+U, a fully digital prepaid product offering integrated services based on fully customizable digital applications.
+We also enrich our digital lifestyle related to video and games content including build up the positioning of MAXstream in the video streaming industry through expanding partnership with major content partners and our own MAXstream originals.
+Our footprint in mobile gaming industry also expanded by providing a complete solution, cultivating gamers community and step into game publishing under Dunia Games brand.
+The rapid growth of customer needs and the  transformation in society caused Telkomsel to commit to increasing its product offerings and digital capabilities while accelerating and expanding its current digital ecosystem.
+Telkomsel will go further beyond connectivity and explore opportunities in new digital initiatives and solutions supported by superior network quality to meet customer needs, thereby remaining focused on long-term growth.
+To accelerate Indonesia’s digital economy, Telkomsel presents PT Telkomsel Ekosistem Digital as a digital powerhouse dedicated to increasing user-centered digital innovation by offering products and services beyond connectivity.
+Consumer In 2021, IndiHome was still our main product targeting Consumer customers.
+Since 2019 our Consumer segment include apartment and premium cluster customers in addition to its traditional purely residential customer base.
+We enhanced our services offered to this wider customer base in terms of quality and improve our customers’ experience through our programs “IndiHome Selalu di Hati”.
+In particular, for IndiHome services, TelkomGroup  combines fixed voice, fixed broadband, and digital-based IP-TV.
+IndiHome performs its marketing in various ways, including utilizing digital channels.
+We give discount and service benefits for IndiHome customers and apply dynamic prices for products and services.
+There were several programs implemented to increase  IndiHome marketing in 2021, namely:•	Maju Terus Bersama IndiHome: IndiHome’s campaign to celebrate the New Year of 2021.
+IndiHome carried out a series of promotional activities such as giving a open channel IndiHome TV essentials pack for 3 months, cashback Linkaja, promo Undian Gebyar Maju Terus  Bersama IndiHome. 127 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS•	Berkah Tanpa Batas: IndiHome’s campaign to  celebrate the month of Ramadan and support the people working, studying or carrying out other activities from home due to the COVID-19 outbreak.
+•	Karya Tanpa Batas Bersama IndiHome: IndiHome campaign to welcome the month of Independence Day of the Republic of Indonesia by supporting various activities of the Indonesian to continue with IndiHome: IndiHome Gowes Kemerdekaan, IndiMovie  Competition, and Extraordinary Meet & Great.
+•	Harapan Tanpa Batas: The IndiHome campaign at the end of 2021, with good working enthusiasm, all programs and promos from IndiHome become the hope of the community to have endless activities with IndiHome such as Christmas and New Year promos, as well as activities with the community.
+Enterprise  The Enterprise segment implemented its marketing strategy by consistently making sustainable fundamental improvements, improvising consultative selling, and developing measures to help products and services into the market.
+Strategic key account management is for increasing business relationships and attracting high-end corporate customers.
+It is through a collaborative process between Telkom and customers to design tailored services based on their needs.
+Telkom and its subsidiaries use the opportunities and  have several digital transformation programs to support the marketing of the Enterprise segment through the following activities: •	Lead enterprise digital transformation agenda (Include SOE) and strengthening market position for CFUE product portfolio to became number 1 Digital Connec - tivity player in enterprise segment; •	Empower MSME through digital platform to gain bet - ter market access, fund access and information & tech-nology access as part of supporting Indonesia’s digital transformation agenda; and •	Become trusted ICT Partner for government to support key national digital agenda (Making Indonesia 4.0 and One Data Indonesia).
+Throughout 2021, TelkomGroup implemented various marketing strategies to create the best value for all customer segments.
+Telkom provides an Account Manager for corporate customers serving as the primary interaction line in providing end-to-end services to after-sales services.
+TelkomGroup has the Government Relationship Officer (GRO) responsible for managing relationships with government agencies and extending work contracts to serve other SOEs.
+TelkomGroup has provided a Business Account Manager (BAM) and Tele Account Management (TAM) for Small and Medium Enterprises (MSME) customers and a value-added reseller mechanism for micro-businesses.
+Wholesale and International Business In the Wholesale and International Business segment, TelkomGroup keeps improving the effectiveness and efficiency of the cost structure, develops new   opportunities, and supports the ministry programs of BUMN Go Global.
+In addition, TelkomGroup is still conducting reviews for its ongoing overseas businesses.
+It is to review the possibility of building a better portfolio structure.
+TelkomGroup keeps reviewing its business portfolios and divests less-potential business portfolios, expecting a good portfolio structure to maximize the WIB segment value.
+The implemented marketing strategies in 2021 were: •	Offer attractive business schemes for voice traffic  portfolio; •	Improve services, such as quality and coverage for international data center and connectivity customers; •	Offer end-to-end tower solutions to customers; •	Explore regional markets by providing submarine cable installation and maintenance services.
+The WIB segment implements another strategy to increase its value is by developing the tower market through the transfer of tower operations from Telkomsel to Mitratel.
+It also aims to increase the value of the tenancy ratio and optimize the tower business because its management can be more focused under Mitratel. 128 PT Telkom IndonesIa (Persero) TbkIn order to maximize the WIB segment marketing strategy,  Telkom and its subsidiaries implement various approaches to its customers by providing account managers, wholesale digital touchpoint apps (Apps and Web), and 24-hour customer care support.
+In addition, the teams’ capability and competence are also continuously improved to provide the best service and customer engagement by the development based on customer-centricity.
+TelkomGroup conducts periodic surveys through  digital touchpoints and interviews to better understand customer needs and feedback.
+We will use the survey results as input in developing new product & service and service improvement programs.
+Digital and Others Services In implementing the Digital segment strategy, TelkomGroup considers adjusting the customer characteristics and needs, especially during the COVID-19 pandemic.
+Our marketing strategy focuses on strengthening and improving digital innovation, including by enriching digital content, creating digital services with unique features, improving brand, platform, operational, and customer experiences, building digital business models to support Indonesia’s digital economics, leveraging our assets and inventory to obtain increasing insight into digital services and customer experience; and growing the portfolio of our digital business through investment in digital startups in order to be a part of Indonesia’s digital ecosystem.
+TelkomGroup has contact centers, dedicated account management, customer care, channel management, website, and social media as communication channels to strengthen its services.
+On the other hand, our digital service customers  program focuses on improving IndiHome services, with the MyIndiHome application as a digital touch point for IndiHome’s customers, which also offer Disney+ Hotstar as starter bundling package, Indibox as the value-added services (such as video contents, games, and other Google applications), GameQoo as a cloud gaming service, and IndiHome Smart as an IoT home service for IndiHome subscribers.
+DISTRIBUTION CHANNEL   Digital Touch Point The digital touch point distribution network is available  for IndiHome and corporate customers.
+Digital touch point is based on web and mobile applications to support the expansion of the IndiHome distribution network.
+Customers can use the myIndiHome service for mobile-based applications to request new installations and manage bills and payments more efficiently.
+As of the end of 2021, there were 6.4 million IndiHome subscribers registered on the myIndiHome application.
+Meanwhile, Telkomsel provides MyTelkomsel as a mobile self-care application for customers’ purchasing information of service packages and products.
+Until now, around 30 million active users have used MyTelkomsel and have used various features in the application.
+The digital touchpoint available for Enterprise segment  customers is My Telkom Enterprise Solution (MyTeNS), which can simplify business processes to increase customer productivity and service performance.
+The benefits of using MyTeNS are easy access to product catalogs, digital quotations, tracking of shipping tickets, and enabling customers to complain about service disruption quickly due to the released tickets as a disruption log.
+For MSME Customer, we offer mysooltan, one-stop service  solution for developing their business by offer multiple digital products, start from sooltaNet, sooltanPay, sooltanKasir, and others.
+Also, users can be a partner and easily apply for loan for venture capital.
+And for Wholesale Customers, we offer MyCarrier, self-service digital touch points that provide end-to-end customer digital experience which integrate with internal process in real-time, start from product catalog, order management, installation tracking/service activation, billing & payment, disruption ticketing and monitoring, and others.
+Users can interact with App-based and web-based digital touch point which can be performed in any device. 129 annual report 2021Mana GeMent DISC uSSIon anD anal YSISTo measure customer experience, TelkomGroup uses  digital touch point with the Net Promoter Score (NPS) method.
+With this method, Telkom and its subsidiaries have accurate data and information to improve quality to customers, both from products, services, and future customer experiences.
+Customer Service Point TelkomGroup provides customer service points, such as Plasa Telkom and GraPARI, to provide service solutions and products for Telkom and its subsidiaries.
+As of 2021, TelkomGroup had 387 Plasa Telkom, 22 Plasa Telkom Digital, and 396 GraPARI Centers in Indonesia (including 9 GraPARI TelkomGroup), and 18 GraPARI overseas, in Hong Kong, Taiwan, and Timor Leste.
+Telkom and its subsidiaries also operated 174 units of mobile GraPARI and 750 units of IndiHome sales cars.
+Authorized Dealers, Retail Outlets and  Modern Channels TelkomGroup has a non-exclusive distribution network  of authorized dealers and retail outlets operating across Indonesia.
+This distribution network provides various Telkomsel products such as starter packs, prepaid SIM cards, and voucher cards with diverse discounts for marketed products.
+In 2021, we noticed a shift from traditional channels to modern channels due to the changing behaviors of consumers during the COVID-19 outbreak.
+More consumers sought to avoid or limit physical interactions or had to do so to comply with social distancing measures and guidelines.
+Therefore, they preferred transacting online, using the internet of dedicated mobile applications rather than transacting in traditional outlets.
+Telkomsel has been monitoring those changes to adapt and redefine its key performance indicators for rewarding partners and to assist them in optimizing their business models to increase sales.
+Partnership Stores TelkomGroup collaborates with various third-party marketing outlets to expand its distribution network.
+These third parties include computer and electronic stores, ATM banking networks, and other business networks.
+Contact Centers TelkomGroup has a contact center service that operates 24 hours in Semarang, Bandung, and Malang.
+This contact center facilitates customers in registering, submitting complaints, and obtaining information on IndiHome services and other Telkom products.
+Account Management Team TelkomGroup has account management teams that is responsible for managing customer relationships, portfolios, and customer satisfaction.
+The account management team serves corporate, SME, government institutions, and Wholesale & International customers.
+Sales Specialist TelkomGroup has sales specialists who work with account managers to identify and design customer technical needs.
+Channel Partner TelkomGroup collaborates with other parties to increase revenue, both for sales and marketing activities, including organizing events for Enterprise customers.
+TelkomGroup also works with Value Added Reseller (VAR) to fulfill Enterprise customer demand and reach retail customers. 130 PT Telkom IndonesIa (Persero) Tbk Website TelkomGroup has prepared various pages that customers can access according to their needs, including www.
+com, www.
+net, and www.
+indihome.
+These pages make customers more convenient to access information, submit complaints, and get several services such as e-billing, registration, and collective billing information.
+Social Media TelkomGroup manages social media to increase customer reach in the digital era.
+TelkomGroup communicates to customers and gets feedback on products and services fast via Facebook, Instagram, and Twitter.
+LinkAja LinkAja is a digital wallet application that provides bill payment features of top-up credit, buys packages, pays online, pays merchants, pays bills, buys game vouchers, donates, sends money, and many more from the smartphone.
+CUSTOMER RELATIONSHIP MANAGEMENT (CRM) TelkomGroup implements customer relationship management.
+This strategy identifies attractive services and follows consumer interests by compiling data for personalized services.
+One of the implementations of customer relationship management is through the IndiHome service.
+The officers will proactively identify and resolve customer problems so that we expect they could increase the IndiHome customers’ convenience.
+IndiHome can provide more attractive service quality with a robust customer database for each customer’s characteristics to improve customer experience.
+In addition, we carried out continuous improvement with a close-the-loop system.
+It means “start and end with the  customer mind,” which is to carry out continuous improvement by solving customer pain points to improve customer experience.
+The results of the voice of customers obtained through the NPS survey will be in a more in-depth analysis (notably respondents detractors/who do not recommend IndiHome services) for further identification of the root cause (root cause analysis) and then prioritized the most effective action plans to IndiHome subscribers’ satisfaction. 131 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS COMPREHENSIVE FINANCIAL   PERFORMANCE FINANCIAL POSITION OVERVIEW As of December 31, 2021, TelkomGroup had total assets of Rp277,184 billion or US$19,448 million, increased by 12.2%  from the previous period.
+The increase in total assets was due to increases in cash and cash equivalents, property and equipment, intangible assets, other non-current assets, contract cost, and long-term investments in financial instruments.
+In terms of liabilities, the total liabilities of TelkomGroup were Rp131,785 billion or US$9,246 million as of December 31,  2021.
+It increased by 4.5% from the last year.
+The increase was due to the increase in customers deposits, long-term unearned income, accrued expenses, bonds and notes, lease liabilities, deferred tax liabilities – net, taxes payable, and long-term bank loans.
+Telkom and Its Subsidiaries Financial Position 2019-2021 Growth Years ended December 31, 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Total Current Assets 31.8 61,277 4,299 46,503 41,722 Total Non-Current Assets 7.7 215,907 15,149 200,440 179,486 Total Assets 12.2 277,184 19,448 246,943 221,208 Total Current Liabilities 0.1 69,131 4,850 69,093 58,369 Total Non-Current Liabilities 10.0 62,654 4,396 56,961 45,589 Total Liabilities 4.5 131,785 9,246 126,054 103,958 Total Equity attributable to  owners of the parent company18.6 121,646 8,535 102,527 99,561 Financial Position Comparison The position of Telkom’s current asset and non-current asset as of December 31, 2021, was 22.1% and 77,9%.
+Meanwhile,  for the liabilities, Telkom had 52.5% current liabilities and 47.5% non-current liabilities.
+The diagrams below present Telkom’s composition assets and liabilities for the last three years.
+Asset Composition 2019-2021 (Rp Billion) Current Asset 46,503 18.8% Non Current Asset 200,440 81.2% 202018.8% 81.2% Current Asset 41,722 18.9% Non Current Asset 179,486 81.1% 201918.9% 81.1% Current Asset 61,277 22.1% Non Current Asset 215,907 77.9% 202122.1% 77.9% 132 PT Telkom IndonesIa (Persero) TbkLiABiLities Composition 2019-2021 (Rp Billion) Current  Liabilities69,131 52.5% Non Current Liabilities62,654 47.5%Current Liabilities69,093 54.8% Non Current Liabilities56,961 45.2%Current Liabilities58,369 56.1% Non Current Liabilities45,589 43.9% 201956.1% 43.9% 202054.8% 45.2% Comparison of Financial Position as of December  31,  2021 Compared to as of December 31, 2020  1.
+Assets    At the end of 2021, Telkom’s total assets were Rp277,184 billion or US$19,448 million.
+It increased by Rp30,241 billion or 12.2% compared to 2020 of Rp246,943 billion.
+It was due to: a.
+Current Assets  Telkom’s current assets increased by Rp14,774 billion  or 31.8% as of December 31, 2021, from Rp46,503 billion in 2020 to Rp61,277 billion or US$4,299 million in 2021.
+It was the impact of:•	 An	increase	 in	cash	and	cash	equivalents	 by	 Rp17,722 billion or 86.1% due to the decrease in cash disbursements for financing activity.
+•	 An	increase	 in	contract	 assets	by	Rp1,294	 billion	 or 24.9% related to the increase in long-term contract assets.
+•	 An	increase	 in	assets	held	for	sale	by	Rp779	billion	 or 1,997.4% due to the increase in the exchanged equipment units of Telkomsel.
+•	 An	increase	 in	contract	 cost	by	Rp202	billion	or	 44.5% due to the increase in cost to obtain the contract, which is higher than the increase in cost to fulfill the contract.
+The increases were compensated by: •	 A	decrease	 in	trade	receivables	 by	Rp2,829	 billion	 or 24,9% due to the decrease in trade receivables from related parties and third parties.
+•	 A	decrease	 in	prepaid	 taxes	by	Rp1,026	 billion	or	 32.4% due to the decrease in corporate income tax and VAT.
+•	 A	decrease	 in	other	current	 financial	 assets	by	 Rp810 billion or 62.2% due to the decrease in term deposits.
+•		 A	decrease	 in	inventory	 by	Rp204	billion	or	20.8%	 due to a decrease in the supply of SIM card and prepaid voucher.
+Non-Current Assets  At the end of 2021, Telkom recorded non-current asset of Rp215,907 billion or US$15,149 million.
+It increased by 7.7% or Rp15,467 billion from the last period of Rp200,440 billion.
+The changes were due to:•	 An	increase	 in	long-term	 investments	 in	financial	 instruments by Rp9,616 billion or 237.7% due to the convertible bonds of PT Aplikasi Karya Anak Bangsa has been converted to shares equity and the shares call option has been executed.
+•	 An	increase	 in	property	 and	equipment	 by	 Rp4,103 billion or 2.5% in line with the increase of infrastructure development, particularly in transmission and cable network.
+•	 An	increase	 in	other	non-current	 assets	 by	 Rp698 billion or 14.4% related to the advances for purchases of property and equipment and prepaid annual frequency license – net of current portion.
+•	 An	increase	 in	intangible	 assets	by	Rp660	billion	 or 9.6% due to the increase of software and license. 202152.5% 47.5% 133 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS•	 An	increase	 in	other	contract	 cost	by	Rp354	billion	 or 28.2% due to the increase of cost to obtain the  contract, which is higher than the increase in cost to fulfill the contract.
+•	 An	increase	 in	deferred	 assets	-	net	by	Rp246	 billion or 6.9% due to the increase of Telkom’s deferred tax assets.
+The increases were compensated by:•	 A	decrease	 in	right	of	use	assets	by	Rp97	billion	 or 0.5% related to the reclassifications and translations.
+•	 A	decrease	 in	contract	 assets	by	Rp60	billion	 or 29.6% due to the increase in uncollectible contract assets of long term portion.
+•	 A	decrease	 in	long-term	 investments	 in	associate	 by Rp53 billion or 27.6% related to the investment impairment losses of Jalin, Finarya, Indonusa, and other entities.  2.
+Liabilities TelkomGroup recorded total liabilities of Rp131,785 billion or US$9,246 million at the end of 2021.
+Compared to 2020 of Rp126,054 billion, TelkomGroup liabilities increased by 4.5% or Rp5,731 billion.
+The following influenced changes in liabilities in 2021.
+Current Liabilities  At the end of 2021, TelkomGroup recorded current  liabilities of Rp69,131 billion or US$4,850 million.
+Meanwhile, in 2020, total current liabilities were recorded at Rp69,093 billion.
+It increased by 0.1% or Rp38 billion and it was due to:•		 An	increase	 in	accrued	 expenses	 by	Rp1,620	 billion or 11.4% related to the salaries and benefits expense, as well as operation, maintenance, and telecommunication service.
+•		 An	increase	 in	taxes	payable	 by	Rp1,210	 billion	 or 44.6% for VAT and corporate income tax in particular.
+•		 An	increase	 in	current	 maturities	 of	lease	liabilities	 by Rp565 billion or 10.5%.
+•		 An	increase	 in	customers	 deposits	 by	Rp392	 billion or 19.4% due to the down payment program for new IndiHome subscribers.
+•		 An	increase	 in	current	 maturities	 of	long-term	 borrowings by Rp340 billion or 3.6% due to the increase in bonds and notes of Rp1,722 billion that compensated by the decrease in bank loans by Rp1,337 billion.
+•		 An	increase	 in	trade	payables	 by	Rp171	billion	or	 1% due to the increase in trade payables of third parties related to the purchases of equipments, materials, and services.
+•		 An	increase	 in	other	payables	 by	Rp31	billion	or	 5.4%.
+The increases were compensated by:•	 A	decrease	 in	short-term	 bank	loans	by	Rp3,252	 billion or 32.7% from the outstanding balance decrease on Bank Mandiri, HSBC, and MUFG Bank in particular.
+•	 A	decrease	 in	current	 portion	 contract	 liabilities	 by Rp1,039 billion or 13.3% due the decrease in advances from customers for Mobile and Enterprise segment in particular.
+Non-Current Liabilities  TelkomGroup recorded non-current liabilities of Rp62,654 billion or US$4,396 million as of December 31, 2021.
+In 2020, non-current liabilities were Rp56,961 billion.
+It increased by 10.0% or Rp5,693 billion.
+The increase was due to:•	 An	increase	 in	long-term	 loans	and	other	 borrowings by Rp5,758 billion or 18.8% due to the increase in long-term bank loans to Bank Mandiri, BSI, BCA, Bank DBS, Bank Permata, and HSBC.
+•	 An	increase	 in	deferred	 tax	liabilities	 –	net	by	 Rp597 billion or 106.4% due to the increase in Telkomsel deferred tax liabilities.
+•	 An	increase	 in	other	liabilities	 by	Rp315	billion	or	 82.0%.
+•	 An	increase	 in	contract	 liabilities	 by	Rp279	billion	 or 27.8% due to the increase in advances from customers in Consumer and WIB segment.
+•	 An	increase	 in	lease	liabilities	 by	Rp205	billion	or	 2.0% due to the addition of right of uses assets.
+The increases were compensated by:•	 A	decrease	 in	pension	 benefits	 and	other	post- employment benefits obligations by Rp1,413 billion or 10.9% due to the decrease in the funded and unfunded defined pension benefit obligation by the Company and the decrease in post-employment health care benefit.
+•	 A	decrease	 in	long	service	 award	provisions	 by	 Rp48 billion or 3.8% due to the decrease in long service award expense.    3.
+Equity In line with the Company’s profit and paid cash dividends that impact on equity, Telkom and its subsidiaries recorded total equity 2021 of Rp145,399 billion (US$10,202 million), increased by Rp24,510 billion or 20.3% from the 2020 of Rp120,889 billion.    134 PT Telkom IndonesIa (Persero) TbkTelkom and Its Subsidiaries Consolidated Profit and Loss in 2019-2021 Growth Years ended December 31, 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Revenues 4.9 143,210 10,047 136,462 135,567 Telephone revenues (23.8) 16,467 1,155 21,610 27,978 Cellular (24.5) 14,737 1,034 19,510 24,978 Fixed Line (17.6) 1,730 121 2,100 3,000 Interconnection revenues 1.3 7,787 546 7,686 6,286 Data, internet, and information technology  service revenues8.5 82,224 5,769 75,816 72,788 Celluler internet and data 8.4 64,500 4,526 59,502 55,675 Internet, data communication and information technology services 5.4 10,272 721 9,744 9,027 Short Messaging Service (SMS) (1.3) 4,754 334 4,817 7,063 Others 53.9 2,698 189 1,753 1,023 Network revenues 11.3 1,880 132 1,689 1,848 IndiHome revenues 18.5 26,325 1,847 22,214 18,325 Other services revenues 18.3 6,115 429 5,170 8,342 Manage service and terminal 58.5 2,048 144 1,292 1,732 Call center service 27.9 1,081 76 845 800 E-health 16.6 640 45 549 523 E-payment (2.4) 487 34 499 566 Telecommunication tower leases - - - - 1,239 Sales of peripherals - 0 0 0 1,109 Others (6.3) 1,859 130 1,985 2,373 Revenues from lessor transaction 5.9 2,412 169 2,277 - Expenses 6.5 99,303 6,967 93,274 93,913 Depreciation and amortization expenses 10.1 31,816 2,232 28,892 23,178 Operations, maintenance, and telecommu- nication services expenses10.2 38,133 2,674 34,593 42,226PROFIT AND LOSS OVERVIEW Telkom’s consolidated revenue as of December 31, 2021, was Rp143,210 billion (US$10,047 million), or increased by 4.9%  from the last year of Rp136,462 billion.
+The increase was due to the revenue growth of IndiHome revenues, data, internet, and information technology services revenues and interconnection revenues.
+The total expense of Telkom and its subsidiaries in 2021 was Rp99,303billion (US$6,967 million).
+It increased by 6.5%  or Rp6,029 billion compared to the total expense in 2020 of Rp93,274 billion.
+It was due to the increase in operation, maintenance, and telecommunication services expense, depreciation and amortization expenses, personnel expenses and marketing expenses.
+Meanwhile, for the performances, Telkom and its subsidiaries resulted in a net profit of Rp24,760 billion (US$1,737 million),  increased by 19.0%, and EBITDA of Rp75,723 billion that increased by 4.9% compared to 2020.
+Telkom and its subsidiaries’ Comprehensive Profit and Loss Report are present in the following table in the last three years. 135 annual report 2021Mana GeMent DISC uSSIon anD anal YSISTelkom and Its Subsidiaries Consolidated Profit and Loss in 2019-2021 Growth Years ended December 31, 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Operations and maintenance 7.7 21,467 1,506 19,930 24,410 Radio frequency usage charges 2.8 6,097 428 5,930 5,736 Leased lines and CPE 48.4 5,003 351 3,371 4,793 Concession fees and USO charges 2.5 2,472 173 2,411 2,370 Electricity, gas, and water (5.1) 898 63 946 1,102 Cost of SIM cards and vouchers 38.2 673 47 487 618 Project management (3.5) 519 36 538 463 Insurance 14.3 432 30 378 246 Vehicles rental and supporting facilities  (11.1) 305 21 343 466 Cost of sales of peripherals 15.8 66 5 57 1,109 Tower leases - - - - 641 Others (0,5) 201 14 202 272 Personnel expenses 7.9 15,524 1,090 14,390 13,012 Salaries and related benefits 4.7 8,661 608 8,272 7,945 Vacation pay, incentives and other  benefits15.7 4,999 351 4,321 3,538 Pension benefit cost 41.4 1,137 80 804 840 Net periodic post-employment health  care benefits cost 4.0 263 18 253 167 Obligation under the Labor Law (1.6) 254 18 258 136 Long Service Award (LSA) expense (47.2) 153 11 253 290 Other post-employment benefit cost (71.6) 23 2 81 33 Long service employee benefit (94.3) 3 0 - - Others (46.6) 31 2 58 63 Interconnection expenses  (4.2) 5,181 364 5,406 5,077 Marketing expenses 4.3 3,633 255 3,482 3,724 General and administrative expenses (23.0) 5,016 351 6,511 6,696 General Expenses 13.2 2,043 143 1,805 1,653 Professional fees (19.6) 789 55 981 793 Allowance for expected credit losses (79.0) 477 33 2.267 2,238 Travelling 16.7 321 23 275 410 Training, education, and recruitment (7.8) 284 20 308 461 Social contribution (4.5) 213 15 223 200 Collection expenses 9.8 212 15 193 176 Meeting 35.3 249 17 184 276 Research and development 57.7 82 6 52 - Others 55.2 346 24 223 444 136 PT Telkom IndonesIa (Persero) TbkTelkom and Its Subsidiaries Consolidated Profit and Loss in 2019-2021 Growth Years ended December 31, 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Gain (loss) on foreign exchange-net 158.1 50 4 (86) (86) Unrealized gain on changes in fair value of  investments2560.5 3,432 241 129 - Other Income - net (36.5) 174 12 274 826 Operating Profit 9.3 47,563 3,337 43,505 42,394 Finance income (30.2) 558 39 799 1,092 Finance costs (3.4) (4,365) (307) (4,520) (4,240) Share of profit (loss) of associated companies (68.3) (78) (5) (246) (166) Impairment of long-term investment in associated companies(100.0) - - (763) (1,172) Profit Before Income Tax 12.6 43,678 3,065 38,775 37,908 Income Tax (Expense) Benefit 5.6 (9,730) (683) (9,212) (10,316) Profit for the Year 14.8 33,948 2,382 29,563 27,592 Other comprehensive income (loss) 155.4 1,980 139 (3,577) (2,192) Net comprehensive income for the year 38.3 35,928 2,521 25,986 25,400 Profit for the year attributable to owners of  the parent company24,760 1,737 20,804 18,663 Profit for the year attributable to non- controlling interest9,188 646 8,759 8,929 Net comprehensive income attributable to owner of the parent company   26,767 1,878 17,595 16,624 Net comprehensive income for the year attributable to non-controlling interest   9,161 643 8,391 8,776 Profit and Loss Comparison TelkomGroup’s highest composition revenue in 2021 was from data, internet, and information technology service revenues  of 57.4%.
+Then it was followed by IndiHome revenue with the contribution of 18.4% and telephone revenue of 11.5%.
+Meanwhile, the highest expense composition was from operation, maintenance, and telecommunication services of  38.4%.
+Then it was followed by depreciation and amortization expenses of 32.0% of the total Company’s expense due to property and equipment, software, hardware, and technology infrastructure use.
+The lowest in 2021 expense was the marketing expense with a percentage of 3.7%. 137 annual report 2021Mana GeMent DISC uSSIon anD anal YSISRevenue Composition 2019-2021 (Rp Billion) Telephone 21,610 15.8% Interconnection 7,686 5.6% Data, Internet  and Information Technology75,816 55.6% Network 1,689 1.2% IndiHome 22,214 16.3% Other Service 5,170 3.8% Revenue from  Lessor Transaction2,277 1.7%Telephone 16,467 11.5% Interconnection 7,787 5.4% Data, Internet  and Information Technology82,224 57.4% Network 1,880 1.3% IndiHome 26,325 18.4% Other Service 6,115 4.3% Revenue from  Lessor Transaction2,412 1.7%Telephone 27,978 20.6% Interconnection 6,286 4.6% Data, Internet  and Information Technology72,788 53.7% Network 1,848 1.4% IndiHome 18,325 13.5% Other Service 8,342 6.2% Revenue from  Lessor Transaction- - 202015.8% 5.6%1.7% 3.8% 16.3% 1.2% 55.6% 201920.6% 4.6%6.2% 13.5% 1.4% 53.7% 202111.5% 5.4% 57.4%1.3%18.4%4.3%1.7% expenses Composition 2019-2021 (Rp Billion) Depreciation and  Amortization28,892 31.0% Operations,  Maintenance and  Telecomunication Service34,593 37.1% Personnel 14,390 15.4% Interconnection 5,406 5.8% Marketing 3,482 3.7% General and Administrative6,511 7.0%Depreciation and Amortization31,816 32.0% Operations,  Maintenance and  Telecomunication Service38,133 38.4% Personnel 15,524 15.6% Interconnection 5,181 5.2% Marketing 3,633 3.7% General and Administrative5,016 5.1%Depreciation and Amortization23,178 24.7% Operations,  Maintenance and  Telecomunication Service42,226 45.0% Personnel 13,012 13.9% Interconnection 5,077 5.4% Marketing 3,724 4.0% General and Administrative6,696 7.0% 202031.0% 37.1%7.0% 3.7% 5.8% 15.4%24.7% 45.0%7.0% 5.4% 13.9% 20194.0% 202132.0% 38.4%15.6%5.2% 3.7%5.1% 138 PT Telkom IndonesIa (Persero) TbkComparison of Profit and Loss for The Year Ended  December  31, 2021 Compared to  Year Ended December 31, 2020 1.
+Revenues    Telkom and its subsidiaries recorded revenues in 2021  of Rp143,210 billion (US$10,047 million), increased by 4.9% or Rp6,748 billion, compared to the 2020 revenue of Rp136,462 billion.
+The increase was mainly due to the higher data, internet, and information technology services revenues and IndiHome revenues.
+Cellular Telephone Revenues   The cellular voice revenue decreased by 24.5%  in 2021 to Rp14,737 billion (US$1,034 million)   compared to the last year of Rp19,510 billion.
+The decrease was due to the increase usage in Over The Top (OTT) services for communication.
+Fixed Lines Telephone Revenues   Fixed lines telephone revenues decreased by 17.6% in 2021 to Rp1,730 billion (US$121 million), compared to 2020 of Rp2,183 billion.
+It was due the people’s behavior change that become more mobile.
+Data, Internet, and Information Technology Services Revenues   At the end of 2021, TelkomGroup recorded data,  internet, and information technology services revenue of Rp82,224 billion (US$5,769 million).
+It increased by 8.5% or Rp6,408 billion compared to the 2020 revenue of Rp75,816 billion.
+The increase in data, internet, and information technology service revenues was due to:•	 An	increase	 in	cellular	 internet	 and	data	revenue	 that grow positively by Rp4,998 billion or 8.4% driven by mobile data usage growth.
+•	 An	increase	 in	Internet,	 data	communication,	 and information technology services revenue by Rp528 billion or 5.4% driven by IT services growth.
+•	 An	increase	 in	others	revenue	 by	Rp945	billion	or	 53.9% driven by data center and cloud services.
+The increases were compensated by the decrease in SMS revenue by Rp63 billion or 1.3% due to the transformation from SMS to over the top (OTT) services.
+Interconnection Revenues   TelkomGroup obtains interconnection revenue from Telkom fixed-line telephone, including direct international services of IDD 007 and Telkomsel cellular network.
+Telkom’s interconnection revenues in 2021 were Rp7,787 billion (US$546 million), increased by 1.3% or Rp101 billion from the last year of Rp7,686 billion.
+The increase was due to the higher traffic between countries, particularly the hubbing voice and A2P (application to person) SMS services.
+Network Revenues   TelkomGroup’s network revenues increased by 11.3% or Rp191 billion, from Rp1,689 billion in 2020 to Rp1,880 billion (US$132 million) in 2021.
+The increase was due to an increase in wholesale traffic & network services for the domestic market & international network.
+IndiHome Revenues   In 2021, IndiHome revenues increased by 18.5% to Rp26,325 billion (US$1,847 million), compared to the last year of Rp22,214 billion.
+It was due to the higher IndiHome subscribers of 8.6 million subscribers or increased by 7.3%.
+Other Services Revenues   For the other services, Telkom recorded revenue of Rp6,115 billion (US$429 million) in 2021.
+It increased by 18.3% or Rp945 billion compared to the 2020 revenues of Rp5,170 billion.
+The increase was due to:•	 An	increase	 in	manage	 service	 and	terminal	 revenue by Rp756 billion or 58.5%.
+•	 An	increase	 in	call	center	service	revenue	 by	Rp236	 billion or 27.9% from telecommunication and call center support facilities services.
+•	 An	increase	 in	e-health	 revenue	 by	Rp91	billion	or	 16.6% from enterprise health service in the form of smart platforms and ICT services.     139 annual report 2021Mana GeMent DISC uSSIon anD anal YSISh.
+Revenues from Lessor Transactions   In addition to the revenues disclosed above, Telkom  also has revenues from lessor transactions of   Rp2,412 billion in 2021.
+It resulted from the adoption of PSAK 72, which Telkom requires to disclose revenues from lessor transactions; for instance, leases were separately from contracts with customers’ revenues.     2.
+Expense    Telkom recorded total expenses as of December 31, 2021, were Rp99,303 billion (US$6,967 million).
+It increased by 6.5% or Rp6,029 billion, compared to 2020 of Rp93,274 billion.
+These changes were due to:    a.
+Operation, Maintenance and Telecommunication Service Expense   TelkomGroup’s operating, maintenance, and telecommunications services expenses in 2021 were Rp38,133 billion (US$2,674 million), increased by 10.2% or Rp3,540 billion compared to 2020 of Rp34,593 billion.
+It was due to:•	 An	increase	 in	operation	 and	maintenance	 expense by Rp1,537 billion or 7.7% mainly from the right to use cost of backbone network with other global submarine cable operators/consortiums.
+•	 An	increase	 in	leased	lines	and	CPE	expense	 by	 Rp1,632 billion or 48.4% in line with the increase in Costumer segment subscribers and Enterprise segment customers.
+•	 An	increase	 in	cost	of	SIM	cards	and	vouchers	 expense by Rp186 billion or 38.2% in line with the higher cellular subscribers of Mobile and Digital (games) segment.
+•	 An	increase	 in	radio	frequency	 usage	charges	 expense by Rp167 billion or 2.8% in line with the increase in data and internet cellular subscribers.
+Depreciation and Amortization Expense   At the end of 2021, TelkomGroup recorded depreciation and amortization expenses of Rp31,816 billion (US$2,232 million).
+It increased by 10.1% or Rp2,924 billion compared to the last year of Rp28,892 billion.
+The increase was mainly due to the implementation impact of PSAK 73 related to the Amortization of Use Rights Assets.
+Personnel Expense   In 2021, TelkomGroup’s personnel expenses increased by 7.9% or Rp1,134 billion from Rp14,390 billion in 2020 to Rp15,524 billion (US$1,090 million) in this period.
+It was due to the expense increase in vacation pay, incentives, and other benefits by Rp678 billion or 15.7%, pension benefit cost by Rp333 billion or 41.4%, and salaries and related benefits by Rp389 billion or 4.7%.
+It is in line with the increase of TelkomGroup’s new employees to substitute the retired employees.
+Interconnection Expense    TelkomGroup’s interconnection expenses in 2021 decreased by 4.2% or Rp225 billion.
+In the last period, interconnection expenses were Rp5,406 billion, then it decreased in 2021 to Rp5,181 billion (US$364 million) in line with the better efficiency in obtaining interconnection revenue.
+Marketing Expense   In 2021 TelkomGroup recorded marketing expenses of Rp3,633 billion (US$255 million).
+It increased by 4.3% or Rp151 billion, compared to 2020 of Rp3,482 billion.
+It was due to the more aggressive marketing programs and promotions for the introduction of new digital products.      140 PT Telkom IndonesIa (Persero) Tbkf.
+General and Administrative Expense   TelkomGroup’s general and administrative expenses  in 2021 were Rp5,016 billion (US$351 million).
+Meanwhile, the expenses for 2020 were Rp6,511 billion, it decreased by 23.0% or Rp1,495 billion.
+It was due to the expense decrease in provision for impairment of receivables by Rp1,790 billion or 79.0%, professional fees by Rp192 billion or 19.6%, and training, education, and recruitment by Rp24 billion or 7.8%.     3.
+Gain (Losses) on Foreign Exchange-net    TelkomGroup’s business is on a global scale, so the transactions involve foreign currencies.
+Therefore, exchange rate fluctuations that occur throughout 2021 may positively or negatively impact the Company’s financial transactions.
+In 2021, TelkomGroup recorded gain on foreign exchange - net of Rp50 billion (US$4 million), it increased by 158.1% compared to the previous period that lost Rp86 billion. 4.
+Unrealized Gain on Changes in Fair Value of Investments  Unrealized gain on changes in fair value of investments for TelkomGroup’s investment in 2021 recorded at Rp3,432 billion (US$241 million).
+It increased by 2,560.5% or Rp3,303 billion compared to the last period of Rp129 billion. 5.
+Other Income - net    TelkomGroup’s other income - net in 2021 recorded at Rp174 billion (US$12 million).
+It decreased by 36.5% or Rp100 billion compared to the last period of Rp274 billion.      6.
+Operating Profit and Operating Profit Margin   In 2021, TelkomGroup recorded an operating profit of Rp47,563 billion (US$3,337 million).
+It increased by 9.3% compared to the last operating profit of Rp43,505 billion.
+Meanwhile, the operating profit margin increased from 31.9% in 2020 to 33.2% in 2021.      7.
+Profit Before Income Tax and Pre-Tax Margin   In 2021, TelkomGroup’s profit before income tax was Rp43,678 billion (US$3,065 million), it increased by 12.6% or Rp4,903 billion compared to the last period of Rp38,775 billion.
+Meanwhile TelkomGroup’s pre-tax margin increased from 28.4% in 2020 to 30.5% in 2021.      8.
+Income Tax (Expense) Benefit    TelkomGroup’s income/expense tax benefit in 2021 was Rp9,730 billion (US$683 million), it decreased by 5.6% or Rp518 billion compared to 2020 of Rp9,212 billion.
+It was due to the provision of tax stimulus from the Government during the COVID-19 pandemic.    9.
+Other Comprehensive Income (Losses)    Telkom recorded other comprehensive income of Rp1,980 billion (US$139 million) in 2021.
+Meanwhile, TelkomGroup recorded other comprehensive losses of Rp3,577 billion in the last period.
+The other comprehensive income in 2021 were due to actuarial gain – net by Rp1,955 billion.      10.
+Profit for The Year Attributable to Owners of The Parent Company    Profit for the year attributable to owners of the parent company increased by 19.0% from Rp20,804 billion in 2020 to Rp24,760 billion (US$1,737 million) in 2021.     11.
+Profit for The Year Attributable to Non-Controlling Interest    Profit for the year attributable to non-controlling interests was Rp9,188 billion (US$646 million).
+It increased by 4.9% compared to the last period of Rp8,759 billion.     12.
+Total Comprehensive Income for The Year   In 2021, Telkom recorded comprehensive income for the year of Rp35,928 billion (US$2,521 million), it increased by 38.3% or Rp9,942 billion compared to 2020 of Rp25,986 billion.      13 .
+Net Income per Share   TelkomGroup’s net income per share in 2021 was Rp249.94 per share, it increased by 19.0% or Rp39.93 compared to the last year of Rp210.01 per share. 141 annual report 2021Mana GeMent DISC uSSIon anD anal YSISCASHFLOW OVERVIEW TelkomGroup’s cash and cash equivalent as of December 31, 2021, was Rp38,311 billion (US$2,688 million).
+The net cash  provided by operating activities was Rp68,353 billion, net cash used in investing activities was minus Rp37,703 billion, and net cash used in financing activities was minus Rp12,986 billion.
+Net cash used in investing activities was for investment in property and equipment, infrastructure, and other investment.
+Meanwhile, net cash used in financing activities was for dividend and loan payments during 2021.
+The following table presents TelkomGroup’s cashflow for the last three years.
+TelkomGroup Cashflow 2019-2021 Growth Years ended December 31, 2021-2020 2021 2020 2019 (%) (Rp billion) (US$ million) (Rp billion) (Rp billion) Net Cash             provided by operating activities 4.6 68,353 4,796 65,317 54,949 used in investing activities 6.9 (37,703) (2,646) (35,256) (35,791) used in financing activities (53.2) (12,986) (911) (27,753) (18,247) Net increase in cash and cash  equivalents665.3 17,664 1,239 2,308 911 Effect of exchange rate changes on cash and cash equivalents48.7 58 4 39 (108) Cash and cash equivalents at beginning of year12.9 20,589 1,445 18,242 17,439 Cash and cash equivalents at end  of year86.1 38,311 2,688 20,589 18,242 Cashflow Comparison The composition of TelkomGroup cash receipt in 2021 indicated that the highest cash receipt was from operating  activities of 68.9%, followed by the cash receipt from financing activities of 30.3%.
+This composition indicated that TelkomGroup’s internal and external funds supported the Company’s operational activities.
+TelkomGroup’s composition of cash receipt and cash disbursement in the last three years presents in the   diagram below.
+Composition of C Ash Re Ceipt 2019-2021 (Rp Billion) Operating 139,451 84.8% Investing 475 0.3% Financing 24,469 14.9%Operating  138,673 82.3% Investing 3,246 1.9% Financing 26,583 15.8%Operating 148,234 68.9% Investing 1,696 0.8% Financing 65,075 30.3% 202014.9% 84.8%0.3% 2019 82.3%15.8% 1.9% 2021 68.9%0.8%30.3% 142 PT Telkom IndonesIa (Persero) TbkAt the end of 2021, TelkomGroup recorded cash and  cash equivalents of Rp38,311 billion or US$2,688 million.
+Meanwhile, the last year’s total cash and cash equivalents were Rp20,589 billion, which increased by 86.1% or Rp17,722 billion in 2021.
+The cash receipts of operating activities in 2021 were  Rp148,234 billion or 68.9% of total cash receipts.
+Meanwhile, the cash receipts of financing activities contributed to 30.3% of the total cash receipts or Rp65,075 billion.
+The least cash receipt in 2021 was investing activities of Rp1,696 billion or contributed to 0.8% of total cash receipts.
+In 2021, the cash disbursements for operating activities  were Rp79,881 billion or 40.5% of total cash disbursements.
+Then, other cash disbursements were for financing activities of Rp78,061 billion or 39.5% of total cash disbursements.
+The least cash disbursements were from investing activities of Rp39,399 billion or 20.0% of total cash disbursements. 1.
+Cash Flow from Operating Activities  In 2021, net cash provided by operating activities were  Rp68,353 billion or US$4,796 million.
+Compared to the last period, it increased by Rp3,036 billion or 4.6%.
+Composition of C Ash DisBuRsement 2019-2021 (Rp Billion) Operating 74,134 45.7% Investing 35,731 22.0% Financing 52,222 32.3%Operating 83,724 50.0% Investing 39,037 23.3% Financing 44,830 26.7%Operating 79,881 40.5% Investing 39,399 20.0% Financing 78,061 39.5% 2020 45.7% 22.0%32.3% 2019 50.0%26.7% 23.3%  TelkomGroup recorded cash receipts from operating activities of Rp148,234 billion in 2021.
+Meanwhile, cash receipts from operating activities for 2020 were Rp139,451 billion, it increased by Rp8,773 billion or 6.3%.
+The cash receipts were from:  •	Cash receipts from customers and other operators of Rp143,902 billion.
+•	Cash receipts for tax refund of Rp3,768 billion.
+•	Cash receipts from finance income of Rp564 billion.
+Cash disbursements for operating activities in 2021 were Rp79,881 billion.
+It increased by 7.8% or Rp5,747 billion compared to the last cash disbursements of Rp74,134 billion.
+TelkomGroup’s cash disbursement were for:  •		 Cash	payments	for	expenses	of	Rp44,811	billion.
+•		 Cash	payments	to	employees	of	Rp13,262	billion.
+•		 Cash	 payments	 for	corporate	 and	final	income	 taxes	 of Rp9,679 billion.
+•		 Cash	 payments	 for	short-term	 and	low-value	 lease	 asset of Rp5,308 billion.
+•		 Cash	payments	for	finance	costs	of	Rp4,426	billion.
+•		 Payments	 for	Value	Added	Taxes	–	net	of	Rp2,084	 billion.
+•				Cash	payments	for	others	-	net	of	Rp311	billion.
+Comparison of Cash Flow for Year Ended December 31, 2021 Compared to Year Ended December 31, 2020 202140.5% 20.0%39.5% 143 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS2.
+Cash Flow from Investing Activities  At the end of 2021, TelkomGroup’s net cash used in  investing activities was minus Rp37,703 billion or US$2,645 million.
+It decreased by Rp2,447 billion or 6.9% compared to the last period of Rp35,256 billion.
+Cash receipts from investing activities in 2021 were Rp1,696 billion, with an increase of 257.1% or Rp1,221 billion from the last period.
+In 2020 financial year, it was Rp475 billion.
+Cash receipts in 2021 were from: •		 Proceeds	 from	other	current	 financial	 assets	–	net	of	 Rp807 billion.
+•		 Proceeds	 from	sale	of	property	 and	equipment	 of	 Rp756 billion.
+•		 Proceeds	from	insurance	claims	of	Rp133	billion.
+Telkom recorded cash disbursements for investing activity of Rp39,399 billion in 2021.
+It increased by 10.3% or Rp3,668 billion from the last year of Rp35,731 billion.
+The cash disbursement was for:•		 Purchase	 of	property	 and	equipment	 of	Rp29,712	 billion.
+•		 Purchase	 of	long-term	 investment	 in	financial	 instrument of Rp6,358 billion.
+•		 Purchase	of	intangible	assets	of	Rp2,845	billion.
+•		 Increase	 in	advances	 and	other	assets	of		Rp442	 billion.
+•		 Additional	 contribution	 on	long-term	 investments	 in associates of Rp42 billion.    3.
+Cash Flows from Financing Activities  TelkomGroup recorded net cash used in financing activities was minus Rp12,986 billion (US$911 million) in 2021.
+It decreased by Rp14,767 billion or 53.2% compared to the previous period of Rp27,753 billion.
+In financing activities, TelkomGroup received cash from financing activities of Rp65,075 billion, it increased by 165.9% or Rp40,606 billion compared to the last period of Rp24,469 billion.
+The cash receipt was from:•	 Proceeds	 from	loans	and	other	borrowings	 of	 Rp46,612 billion.
+•	 Proceed	 from	initial	public	offering	 of	subsidiary	 of	 Rp18,463 billion.
+Meanwhile, the cash disbursement for financing activities was of Rp78,061 billion.
+It increased by Rp25,839 billion or 49.5% compared to the last period of Rp52,222 billion.
+The cash disbursement was for: •	 Repayments	 of	loan	and	other	borrowings	 of	 Rp43,740 billion.
+•	 Cash	 dividends	 paid	to	Company’s	 Stockholders	 of	 Rp16,643 billion.
+•	 Cash	 dividends	 paid	to	non-controlling	 interests	 of	 subsidiaries of Rp13,242 billion.
+•	 Repayment	 of	principal	 portion	 of	lease	liabilities	 of	 Rp4,436 billion. 144 PT Telkom IndonesIa (Persero) TbkSOLVENCY TelkomGroup’s 2021 Consolidated Financial Statements (Audited) show the Company’s decent liquidity and solvency,  with the ability to pay the positive short and long-term liabilities.
+In general, TelkomGroup’s debt repayment efforts originate from cash inflows from operational activities.
+Telkom’s management can manage its operations in maintaining liquidity without relying on non-operating cash flow funds.
+SHORT-TERM LIABILITY TelkomGroup monitors the current ratio, quick ratio, and cash ratio as a basis for measuring the Company’s ability to pay its short-term liabilities.
+TelkomGroup constantly monitors these three ratios to maintain liquidity and ensure the availability of funds to pay for short-term liabilities that are due.
+It is important for TelkomGroup to utilize its assets optimally and productively.
+Telkom has a strategy to maintain its ability to pay the short-term liabilities by keeping the current ratio percentage  above the industry average current ratio.
+Other than that, TelkomGroup maintains the availability of loan facilities that can be withdrawn if needed.
+The following table shows the information regarding liquidity ratio of Telkom and its subsidiaries in the last three years.
+TelkomGroup Liquidity Ratio 2019-2021 Ratio 2021 2020 2019 Current Ratio 88.6% 67.3% 71.5% Quick Ratio 68.7% 48.4% 52.9% Cash Ratio 56.1% 31.7% 32.2% LONG-TERM LIABILITY TelkomGroup closely monitors the Debt to Equity Ratio, the debt to EBITDA ratio, and the EBITDA to interest expense ratio to measure the ability to pay the long-term liabilities.
+Telkom’s consolidated financial statements as of December 31, 2021, indicate a Debt to Equity Ratio of 0.48 times and the debt to EBITDA ratio of 0.91 times, and EBITDA to interest expense ratio of 17.3 times.
+Therefore, it demonstrates the ability of Telkom and its subsidiaries to pay long-term liabilities with a low risk defaulted.
+TelkomGroup constantly improves the debt profile by optimizing debt with floating interest rates.
+The objective is to  reduce interest expense and exposure to future interest rate fluctuations.
+In addition, to maintain financial quality and stability, TelkomGroup optimize internal resources to meet the Company’s funding needs.
+The following data table presents the Debt to Equity Ratio, debt to EBITDA ratio, and the EBITDA to interest expense  ratio for the last three years.
+Ratio 2021 2020 2019 Dent to Equity Ratio 0.48 X 0.54 X 0.44 X Debt to EBITDA 0.91 X 0.91 X 0.80 X EBITDA to Interest Expense 17.3 X 15.9 X 15.3 X For further information regarding liquidity related to the discussion of Telkom and its subsidiaries liabilities, see Notes 19 and 20 in TelkomGroup’s 2021 Consolidated Financial Statements. 145 annual report 2021Mana GeMent DISC uSSIon anD anal YSISCAPITIAL STRUCTURE AND THE MANAGEMENT POLICIES FOR CAPITAL STRUCTURE 2021 2020 2019 Capital Structure (Rp billion) (US$ million) (Rp billion) (Rp billion) Debt 69,078 4,847 65,462 52,084 Short Term Debt 6,682 469 9,934 8,705 Long Term Debt 62,396 4,378 55,528 43,379 Equity 121,646 8,535 102,527 99,561 Total 190,724 13,382 167,989 151,645CAPITAL STRUCTURE TelkomGroup has a capital structure policy by using the funding sources use from short-term debt, long-term debt, and  equity.
+As of December 31, 2021, the largest composition of TelkomGroup’s capital structure was equity.
+There was no significant change in the equity and capital composition in 2021 compared to the previous reporting year.
+The following diagram and table illustrate the composition and structure of Telkom’s capital over the past three years .
+MANAGEMENT POLICY FOR CAPITAL STRUCTURE TelkomGroup is responsible for maintaining creditworthiness, reflected by its credit rating and capital structure.
+TelkomGroup could maintain the capital structure by referring to the debt level below the industry average which reflected in the Debt to Equity Ratio and Debt to EBITDA Ratio.
+To maintain a strong capital structure, TelkomGroup is still optimizing the weighted average cost of capital and tax  benefits and maintaining a balanced capital structure by monitoring financial ratios.
+The current capital structure is in line with the Company’s policy on the capital structure to determine the optimal funding composition from capital and debt.
+Thus, the policy is also used as the basis to make a decision on adding or paying the short-term or long-term debt.
+Telkom could renew the financing scheme if there is more efficient and profitable scheme available.
+In 2021, TelkomGroup had the Debt to Equity ratio (DER) of 0.48 times, while in 2020, it was 0.54 times.
+Meanwhile,  Telkom’s debt service coverage ratio as of December 31, 2021, was 1.6 times, while in 2020, it was 2.5 times.
+For more detailed information regarding management policies on the capital structure, please refer to Note 39 of Capital Management in TelkomGroup’s 2021 Consolidated Financial Statements.
+CApit AL stRuC tuRe 2019-2021 (Rp Billion) Short Term 6,682 3.5% Long Term 62,396 32.7% Equity 121,646 63.8% 20205.9% 33.1% 61.0% Short Term 9,934 5.9% Long Term 55,528 33.1% Equity 102,527 61.0%Short Term 8,705 5.7% Long Term 43,379 28.6% Equity 99,561 65.7% 20195.7% 28.6%65.7% 20213.5% 32.7%63.8% 146 PT Telkom IndonesIa (Persero) Tbk REALIZATION OF   CAPITAL EXPENDITURE Several investments in capital expenditure aim to anticipate dynamic technological changes.
+Throughout 2021,  TelkomGroup has realized capital expenditure investments tailored to the Company’s needs and strategies.
+The denomination of TelkomGroup’s capital expenditure investment is in several currencies, namely Rupiah (Rp), US Dollar (US$), Euro (€), and Hong Kong Dollar (HK$).
+STRATEGY AND OBJECTIVES OF INVESTMENT IN CAPITAL   EXPENDITURE TelkomGroup focuses on expanding and maintaining business growth in this digital and COVID-19 pandemic era which  based on digital connectivity, digital platforms, and digital services.
+In 2021, TelkomGroup invested in capital expenditure to expand its portfolio and build infrastructure according to its business strategy.
+TYPES OF INVESTMENT IN CAPITAL EXPENDITURE Capital expenditure of Telkom and its subsidiaries are: •	 Broadband	services,	comprising	of	mobile	(4G,	5G)	and	fixed	broadband	access;•	 Network	 infrastructures,	 consist	 of	backbone	 and	core	network	 (submarine	 cable,	terrestrial	 cable,	Metro-Ethernet,	 and IP Backbone); •	 Data	Center,	Cloud,	TV	Video,	IoT,	IT	(smart	platform,	solution	and	services);	and•	 Other	supporting	capital	expenditures,	such	as	supporting	facility	of	connectivity,	building,	and	power	supply.
+AMOUNT OF INVESTMENT IN CAPITAL EXPENDITURE The total investment realization of Telkom and its subsidiaries capital expenditure in 2021 was Rp30,341 billion or US$2,130 million.
+It grew by 3.1%  from the previous year of Rp29,436 billion.
+The following are some of Telkom and its subsidiaries capital expenditure:•	 Constructed	Telkomsel	BTS.
+•	 Building	neuCentrix	and	hyperscale	data	center.
+•	 Tower	addition	and	its	supporting	capacity.
+•	 National	 project	 of	submarine	 cable	system	 deployment,	 such	as	Lumori	 (Luwuk-Morowali-Kendari)	 submarine	 cable, interisland Batam and North Papua submarine cable, and international submarine cable system.
+The following table present data and information regarding the investment value of Telkom and its subsidiaries capital expenditure in the last three years.
+TelkomGroup’s Capital Expenditure Investment 2019-2021 Years ended December 31, 2021 2020 2019 (Rp billion) (US$ million) (Rp billion) (Rp billion) Total Invesment in Capital Expenditure 30,341 2,130 29,436 36,585 147 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS MATERIAL COMMITMENT FOR CAPITAL EXPENDITURE OBJECTIVES OF MATERIAL COMMITMENT FOR CAPITAL  EXPENDITURE TelkomGroup is a digital telecommunications company, so it is necessary to make sustainable investments to accelerate  digital transformation.
+We made several material commitments for capital expenditure to support transmission and network equipment, as well as for other digital infrastructure.
+During the 2021 period, the material commitment of TelkomGroup and other parties in the form of project agreements is in Note 36 regarding Significant Commitment and Agreement in TelkomGroup’s 2021 Consolidated Financial Statements.
+SOURCES OF FUNDS TO FULFILL OF MATERIAL   COMMITMENT FOR CAPITAL EXPENDITURE In 2021, TelkomGroup has good leverage to fund capital expenditures.
+Also, TelkomGroup has several alternatives for  other funding, including using internal and external funding sources (such as bank funding, debt instruments, and additional share capital for capital expenditure investment) according to a predetermined business plan.
+DENOMINATED CURRENCIES OF MATERIAL COMMITMENT   FOR CAPITAL EXPENDITURE TelkomGroup uses several currency denominations in material commitments for capital goods investment in investing.
+It consists of currency Rupiah, US Dollar, and other currencies.
+The most significant bond is in US Dollar currency of Rp448 billion.
+The following table is the composition of the value of the material commitment for the investment of capital expenditure  in Rupiah, US Dollar, and others as of December 31, 2021: Ammounts in Foreign  CurrenciesEquivalent in Rupiah Table of Material Commitment based on Currencies (in million) (in billion) Rupiah - 10.355 US Dollar 31.00 448 Euro 1.36 22 HKD 0.02 0 Total 10,825 FOREIGN CURRENCY RISK MITIGATION OF MATERIAL   CONTRACTS FOR CAPITAL EXPENDITURE Material commitments for capital expenditure that use foreign currencies can be affected by fluctuations in exchange  rates.
+TelkomGroup has measures to manage the related foreign currency risk by setting time deposits and receivables in foreign currencies, at least 25% of the outstanding foreign currency short-term liabilities.
+As a result of this policy, TelkomGroup can compensate losses on exchange rate fluctuations with the advantage of time deposits and receivables, thereby minimizing the risk of losses caused by the exchange rate fluctuations.
+A more detailed explanation regarding material commitments for investment in capital expenditure and foreign  currency exchange rate risk can be seen in Note 36 Significant Commitment and Agreements and Notes 38 Financial Instruments in TelkomGroup’s 2021 Consolidated Financial Statements.  148 PT Telkom IndonesIa (Persero) TbkRECEIVABLES   COLLECTABILITY TelkomGroup had a decent receivables collectability level with consolidated maturity receivables as of December 31  for 2021 and 2020, which are not impaired or collectible of Rp3,417 billion and Rp4,217 billion.
+The accounts receivable turnover ratio was recorded at 14.4%, and the average collection time ratio was 25.3 days.
+TelkomGroup constantly monitors receivables and collection balances regularly to minimize the customers’ credit risk.
+Telkom has made various methods in collecting its accounts receivable, such as conducting visits and direct collection processes to the customer, cooperating with partners regarding account receivable collection service, and actively contacting customers via telephone, letter, or email.
+An assessment will be carried out for the preventive measure, especially on prospective customers in the Enterprise  segment, whether there is a history of bills arrears or not.
+In addition, we also carried out risk project assessment so that each project obtained is verified.
+The following table present the TelkomGroup’s receivables collectability in the last three years.
+TelkomGroup’s Receivables Collectability 2019-2021 Average Collection Duration Ratio (%) Ratio 2021 2020 2019 Average collection ratio (days) 25.3 30.9 31.2 Receivables turnover ratio (%) 14.4 11.8 11.7 ANALYSIS AND EXPLANATION OF RECEIVABLES   COLLECTABILITY TelkomGroup classifies receivables in analyzing accounts receivable based on the age of accounts receivable as follows.
+Analysis of TelkomGroup’s Accounts Receivables by Age Period 2019-2021 2021 2020 2019 Analysis of Accounts Receivable By Age Rp (billion) Not past due 5,625 7,818 8,250 0 – 3 months 2,447 2,300 2,583 3 – 6 months 924 1,274 1,314 > 6 months 7,316 8,307 5,853 Total receivables before provision 16,312 19,699 18,000 Provision for impairment of receivables (7,802) (8,360) (6,203) Net receivables after provision 8,510 11,339 11,797 In 2021, TelkomGroup established a provision for impairment of trade receivables based on the collective historical  impairment rate and individual customer credit historical rates.
+Provision for impairment of receivables in 2021 was Rp7,802 billion, lower than the provision for 2020 of Rp8,360 billion.
+Further discussion of TelkomGroup’s receivables can be seen in Note 5 Accounts Receivable in TelkomGroup’s 2021 Consolidated Financial Statements.
+MANAGEMENT DISCUSSION AND ANALYSIS MATERIAL INFORMATION AND FACT AFTER   ACCOUNTANT REPORTING DATE TelkomGroup continues complying with the transparency and accountability principles to implement good corporate  governance.
+Thus, TelkomGroup requires conveying material information and facts after the financial reporting date.
+Some material information and facts that occurred after the date of the accountant’s report as of December 31, 2021, are as follows: Material Information and Fact After Accountant Reporting Date for 2021 Reporting Period No.
+Material Information and Facts 1.
+As of the issuance date of these consolidated financial statements, the Group made repayment and  withdrawal of several credit facilities as follows: a.
+The Company  On March 9, 2022, The Company withdrawn facilities from BCA amounting to Rp1,500 billion and on March  15, 2022, The Company withdrawn facilities from Bank of China and Citibank amounting to Rp1,000 billion and Rp500 billion, respectively.
+On January 14, 2022, Telkomsel repaid its loans to MUFG Bank, BNI, Bank of China, and Bank Mandiri amounting to Rp300 billion, Rp250 billion, Rp200 billion, and Rp150 billion, respectively.
+Telkomsel also withdrawn facilities from BCA amounting to Rp150 billion.
+On February 14, 2022, Telkomsel repaid its loans to BNI, BCA, MUFG Bank, Bank of China, and Bank Mandiri amounting to Rp500 billion, Rp500 billion, Rp400 billion, Rp200 billion, and Rp150 billion, respectively.
+On March 14, 2022, Telkomsel repaid its loan to BSI amounting to Rp500 billion.
+On January 17 and 26, 2022, Mitratel repaid its loan to MUFG Bank and DBS Bank amounting to Rp500 billion and Rp333.4 billion, respectively.
+On February 2 and 22, 2022 Mitratel repaid its loan to BCA and SMI amounting to Rp291.6 billion and Rp350 billion, respectively.
+On March 1 dan 23, 2022, Mitratel repaid its loan to BCA and Bank Mandiri amounting to Rp450 billion and Rp1,600 billion, respectively.
+On March 4 and 21, 2022, Mitratel withdrawn additional facilities from MUFG Bank and BNI amounting to Rp500 billion and Rp1,200 billion, respectively.
+On March 29, Mitratel repaid its loan to MUFG amounting to Rp272 billion.  2.
+On April 11, 2022 GoTo effectively traded its shares in Indonesia Stock Exchange.
+Detailed explanations regarding the above transactions can be found in TelkomGroup’s 2021 Consolidated Financial  Statements, particularly in Note 41 Subsequent Event. 149 ANNUAL REPORT 2021 150 PT Telkom IndonesIa (Persero) TbkBUSINESS PROSPECTS AND SUSTAINABILITY OF THE COMPANY Indonesia’s economic condition in 2021 was still unstable  due to the impact of the COVID-19 pandemic.
+The Enactment of Community Activity Restrictions (PPKM) stopped people’s mobility in Q3.
+However, the economic situation until Q3 2021 had a growth of 3.51%, which was a good starting point for Q4 2021 to 2022.
+In Q4 2021, people’s mobility steadily increased, and several sectors began to recover, such as construction and transportation.
+The Government expected society to maintain the balance by prioritizing health, vaccinating, and strictly implementing social distancing.
+On the other hand, the telecommunications sector still  recorded a positive performance growth during the COVID-19 pandemic, and the Government expected to support the acceleration of national economic recovery.
+Mobility restrictions during COVID-19 have impacted the stable revenue growth in the telecommunications sector.
+The PPKM policy to suppress the spread of COVID-19 was directly proportional to the increase in data users and consumption, thus becoming a catalyst for revenue growth for telecommunication companies.
+Along with the increasing prospects for the  telecommunications business, the Ministry of Communication and Information (MoCI) stated it would continue expanding the internet network to remote areas.
+One of the information and communication technology (ICT) infrastructures is the Base Transceiver Stations (BTS).
+In 2021, the MoCI completed the construction of around 4,200 BTS, and the construction process will continue with the construction of 3,704 new BTS in 2022.
+By 2024, it would complete building 9,586 BTS and be fully operational.
+The prospect of the telecommunications business has  an excellent opportunity to improve its performance.
+The higher chance is in line with the increasing internet demand within the country.
+It is undeniable that digital services are increasingly important, so Telkom has encouraged accelerating its transformation into a digital telecommunication company.
+Telkom remains strengthening its leadership position in its core businesses of digital connectivity, building and developing digital talent to accelerate digital platform growth, encouraging digital service innovation, and improving business value through portfolio optimization and lean organization.
+TelkomGroup commits to providing reliable and high-quality fixed and mobile broadband services, other digital platforms, and services across the country to support people’s productivity and creative activities.
+In the Mobile segment, Telkom notices the opportunities to increase growth potential in high-value customers, mobile solution services, and the various digital services development.
+A fast connection   is the most desirable  for customers, and they will always prefer a stable mobile network.
+Therefore, Telkom understands that 5G networks demand will increase in the future.
+Therefore, Telkomsel has officially launched 5G services.
+With the 5G network, the communication process would be smoother with the broader bandwidth for better and faster data communication.
+In addition, the B2B line in the Mobile segment would improve by penetrating digital solutions such as Digital Advertising (MyADS Telkomsel), Big Data (Telkomsel MSight), and Internet of Things (Telkomsel IoT) to create cross-industry breakthroughs.
+In the B2C line, Telkom, through Telkomsel, will develop digital products according to customer needs.
+Telkomsel’s portfolio of digital services includes Digital Lifestyle (MAXstream, LangitMusik, Dunia Games), Mobile Financial Services (LinkAja), and Digital Banking (mBanking Telkomsel).
+In the Consumer segment, the opportunities are from  the high-quality fixed broadband services competition due to the increasing demand for high-quality internet in line with the current trend of flexible working, online learning, and other activities such as e-commerce or digital entertainment.
+Meanwhile, the penetration of fixed broadband services is still relatively low, around 15.7% of total households in Indonesia.
+To accommodate the demands, Telkom focuses on increasing broadband service coverage for Indonesia and building the Mobile and Consumer segments synergy with the innovative development of fixed wireless products that can complement each other.
+Telkom will focus on data center development in the  Enterprise segment because it has the high demand potential amid the rampant business digitization and digitalization in various sectors.
+The digital services development influenced the increased demand, such as e-commerce and diverse other digital solutions.
+In addition, data center development still has the potential for a relatively good profitability level in the market.
+To support the development of the data center business, Telkom also focuses on services on it, namely cloud services and other IT service support that will anchor business digitization in various sectors.
+In addition, through its subsidiary, Infomedia, the Ministry of SOEs assigned and trusted Telkom as the implementation entity for SOE Global Shared Service (GSS).
+The program will present Shared Service Operation (SSO) services which Telkom  151 annual report 2021Mana GeMent DISC uSSIon anD anal YSISwill deliver on a B2B basis for all SOEs in Indonesia.
+SSO is  needed to consolidate repetitive resources and streamline shared non-core work functions (such as finance, administration, personnel, procurement, et cetera) to have more transparent and efficient performance.
+In the future, Telkom will sell the SSO business model, which the public can utilize.
+TelkomGroup still focuses on improving the  telecommunications tower business, wholesale carrier hubbing, telecommunications services and networks, data centers, infrastructure managed services, and power solutions for network operators/telecommunication services and digital ecosystems in the Wholesale and International Business segment, both domestic and overseas.
+In addition, the development of the Global Digital Hub, which provides direct broadband connectivity across Europe, Asia, and America, will be still developing.
+It is supported by the Indonesia Global Gateway (IGG) submarine cable, which connects the SEA-ME-WE 5 with the SEA-US submarine cable of Telkom as an enabler.
+It will be the main gateway for digital connectivity that brings domestic to global traffic, global to domestic traffic, and within countries (hubbing), both voice traffic and A2P (Application-to-person) SMS.
+COMPARISON OF INITIAL YEAR TARGET AND THE REALIZATION Throughout 2021, TelkomGroup experienced revenue growth of 4.9% to Rp143,210 billion.
+Telkom’s EBITDA and Net Profit  in 2021 was at Rp75,723 billion and Rp24,760 billion.
+Meanwhile, the EBITDA margin and Net Profit margin recorded were 52.9% and 17.3%.
+Following TelkomGroup’s business strategy to strengthen the digital business, we used Rp30,341 billion for capital  expenditures during 2021 or 21.2% of total revenue.
+The following table compares the initial year of 2021 and the realization as of December 31, 2021.
+Comparison of TelkomGroup Targets and Realizations in 2021 Indicator Realization in 2021 Target In Initial 2021 Revenue  GrowthRevenues grew by 4.9%.
+We estimate that the impact of the COVID-19 pandemic will still affect the Company for the first half in particular.
+Overall, we expected the Company to grow positively in the low to mid-single digit range.
+EBITDA Margin and Net Income MarginEBITDA Margin increased to 52.9%  while Net Income Margin increased to 17.3%.
+EBITDA Margin and Net Income Margin are projected  to slightly decreased in line with the decline in legacy businesses shifting to digital businesses.
+Capital ExpenditureThe realization of capital expenditures is to Rp30,341 billion, or 21.2% of revenue with focused investment in digital business infrastructure.
+Around 24%-27% of our revenue is planned for capital expenditure, focusing on building digital business infrastructure. 152 PT Telkom IndonesIa (Persero) TbkTARGET OF PROJECTIONS FOR THE FOLLOWING YEAR TelkomGroup is currently striving to achieve sustainable company growth following the 2021-2025 Framework as the  foundation for corporate strategy that emphasizes the development of three main pillars, such as digital connectivity, digital platform, and digital services.
+The three pillars become a value proposition or portfolio direction supported by seven other pillars as a delivery direction.
+They are portfolio optimization, technology, organization, synergy and operational excellence, individual and corporate culture, inorganic, and governance.
+Considering the challenges and opportunities, in 2022, TelkomGroup targets revenue to grow competitively with IndiHome’s highest contribution.
+In addition, TelkomGroup still maintains its dominance in the cellular market and is aggressively developing its digital business.
+In line with TelkomGroup’s Strategic Intention in 2022, namely Investing in the Future, TelkomGroup will strengthen  digital domain competencies along with changes in the Company’s structure.
+TelkomGroup’s investment is aimed at capacity expansion and maintaining excellent service quality amidst increasing traffic demands.
+In addition, it is also to develop digital platforms as business enablers in the future.
+TelkomGroup plans to allocate capital expenditure of 26%-30% of revenue to build the infrastructure in 2020.
+In general, Telkom’s target for 2022 is in the table below.
+TelkomGroup’s  Target or Projections for The Following Year Indicator Target in 2022 Revenue Growth We estimate that the impact of the COVID-19 pandemic and an  increasingly competitive climate will still affect the Company.
+Overall, the Company is expected to grow positively in the low to mid-single-digit range.
+EBITDA Margin and Net Income Margin EBITDA Margin and Net Income Margin are projected to increase slightly in line with the decline in legacy business shifting to digital business (connectivity, platform, and service).
+Capital Expenditure Around 26%-30% of our revenue is planned for capital expenditures, focusing on building digital business infrastructure.
+Dividend Policy The dividend payout ratio ranges from 60%-90%.
+MANAGEMENT DISCUSSION AND ANALYSIS DIVIDEND TelkomGroup annually distributes dividends in order to optimize value for shareholders.
+The dividend distribution  policy is through a process of determination and approval from the shareholders at the Annual General Meeting of Shareholders (AGMS).
+TelkomGroup has set a dividend payout ratio that ranges from 60% to 90% in the last five years.
+The dividend paid in 2021 for business performance in 2020 was Rp16,643,443, which includes cash dividends and special cash dividends.
+Therefore, the dividend payout ratio for operating performance in 2020 was 80%.
+Telkom will determine the payout ratio, dividend amount, and total final dividend for 2021 performance at the AGMS  conducted in 2022.
+Telkom’s Dividend Payment for 2016-2020 Operational Performance Dividend YearDividend PolicyDate of Dividend Payment in Cash and/or Date of Dividend Distribution in Non-CashPayment Ratio / Payout ratio  (%) 1Dividend Amount paid per year (Rp million)Dividend Amount per Share (cash and/or non- cash) after Stock Split (Rp) 2016 AGMS, April 21, 2017 May 26, 2017  70  13,546,4112 136.75 2017 AGMS, April 27, 2018 May 31, 2018  75  16,608,7513 167.66 2018 AGMS, May 24, 2019 June 27, 2019  90  16,228,6194 163.82 2019 AGMS, June 19, 2020 July 23, 2020 81.78 15,262,3385154.07 2020 AGMS, May 28, 2021 July 2, 2021 80 16,643,4436168.01 Remarks: 1.
+Represents the percentage of profit attributable to owners of the parent paid to shareholders in dividends. 2.
+Consists of cash dividend amounting to Rp11,611,211 million and special cash dividend amounting to Rp1,935,200 million. 3.
+Consists of cash dividend amounting to Rp13,286,997 million and special cash dividend amounting to Rp3,321,754 million. 4.
+Consists of cash dividend amounting to Rp10,819,080 million and special cash dividend amounting to Rp5,409,540 million. 5.
+Consists of cash dividend amounting to Rp11,197,606 million and special cash dividend amounting to Rp4,064,730 million. 6.
+Consists of cash dividend amounting to Rp12,482,582 million and special cash dividend amounting to Rp4,160,860 million. 153 ANNUAL REPORT 2021 154 PT Telkom IndonesIa (Persero) Tbk REALIZATION OF    PUBLIC OFFERING FUND Telkom has issued several bonds which are currently outstanding and owned by investors.
+We have several underwriters  for bond issuance, namely PT Bahana Sekuritas, PT Danareksa Sekuritas, PT Mandiri Sekuritas, and PT Trimegah Sekuritas Tbk, and a bank that is the trustee, namely PT Bank Permata Tbk.
+Telkom guarantees all bonds with assets, and Pefindo assigns an  idAAA rating to all Telkom bonds.
+The following table presents the unmatured bond status as  of December 31, 2021.
+Realization of Telkom’s Public Offering Funds as of December 31, 2021 Realization of Funds Name of the BondAmount (Rp million)Date of  IssueMaturity  DateTime Periode  (Year)Balance (Rp million)Year The Shelf Registered Bonds  I Telkom 2015 series A 2,200,000 June 23, 2015 June 23, 2022 7 0 2016 The Shelf Registered Bonds  I Telkom 2015 series B 2,100,000 June 23, 2015 June 23, 2025 10 0 2016 The Shelf Registered Bonds I Telkom 2015 series C 1,200,000 June 23, 2015 June 23, 2030 15 0 2016 The Shelf Registered Bonds I Telkom 2015 series D 1,500,000 June 23, 2015 June 23, 2045 30 0 2016 Currently, Telkom has realized all the funds obtained from the public offering, with the remaining funds recorded as nil.
+There is no change regarding the realization of the previously planned use of funds.
+Details related to bond information can be seen in Note 19 Short-Term Bank Loans and Long-Term Loans Maturing Within One Year, and Note 20 Long-Term Loans and Other Loans in the 2021 TelkomGroup Consolidated Financial Statements. 155 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS MATERIAL INFORMATION REGARDING   TRANSACTION WITH CONFLICT OF INTEREST,   TRANSACTION WITH AFFILIATED PARTIES, INVESTMENT,   DIVESTMENT, AND ACQUISITION In 2021, TelkomGroup recorded affiliated transactions.
+The implementation follows internal policies related to the  Principal Procedures for Affiliated Transactions and Conflict of Interest Transactions listed in the Official Memorandum from the President Director.
+Based on the review, Telkom stated that all affiliated transactions have gone through proper internal procedures to ensure that the transactions have complied with general accepted business practices and the provisions of POJK No.42/2020.
+Meanwhile, transactions with related parties are carried out with the principles of fairness and business practice so that there are no conflicts of interest transactions.
+The following transactions contain material information for 2021: Transaction Transaction Type Cause of Transaction On May 21, 2021 in Jakarta, PT  Telekomunikasi Selular (“Telkomsel”) a subsidiary of PT Telkom Indonesia (Persero) Tbk (“Telkom”) and PT Application Karya Anak Bangsa (“Gojek”) signed an additional investment agreement with Gojek worth US$300 million.
+Investment This transaction is a momentum in encouraging the integration of the Telkomsel and Gojek ecosystems to provide added value for customers and partners and to present more solutions that can develop an inclusive and sustainable digital ecosystem in Indonesia.
+On August 31, 2021 in Jakarta, PT Telekomunikasi Selular (“Telkomsel”) and PT Dayamitra Telekomunikasi (“Mitratel”), both of which are subsidiaries of PT Telkom Indonesia (Persero) Tbk (“Telkom”), signed an agreement to transfer 4,000 Telkomsel’s telecommunication towers to Mitratel worth Rp6,188 billion.
+Affiliation For structuring the portfolio of subsidiaries to focus more on their respective business lines for optimal value creation.
+A further detailed list of affiliated transactions that must be disclosed in the Annual Report for the 2021 financial year,  can be seen in Note 33 regarding Transaction with Affiliated Parties in TelkomGroup’s 2021 Consolidated Financial Statements and Appendix 4 in Annual Report for 2021 Reporting Period. 156 PT Telkom IndonesIa (Persero) Tbk CHANGES IN   LAW AND REGULATION TelkomGroup has reviewed the changes to provisions laws or regulations that affect our operations which in line with  Good Corporate Governance (GCG) practices.
+On January 27, 2021, the Government stipulated the Regulation of the Minister of Communication and Information Technology No. 1 the year 2021 regarding the Second Amendment to the Regulation of the Minister of Communication and Information Technology Number 13 the year 2019 regarding the Implementation of Telecommunication Services.
+This policy impacted TelkomGroup, i.
+, the increase of 1XY cost services such as 147 and 108 provided by Infomedia subjected to the obligation of Telecommunications Operations Rights Fee (BHP) and USO contribution fees which were charged to 1XY service providers.
+In addition, ITKP operators could terminate incoming international calls with the terms and conditions, resulting in increased fraud potential due to most ITKP operators do not have good fraud mitigation capabilities.
+Therefore, Telkom is ready to cooperate with Kominfo and law enforcement officials to assist the fraud calls investigation process.
+On April 8, 2021, the Ministry of SOEs issued Regulation of the Minister of State-Owned Enterprises Number PER- 05/MBU/04/2021 regarding State-Owned Enterprise’s Social and Environmental Responsibility Program (SOE’s CSR Program).
+This regulation was issued to strengthen the purpose of state-owned enterprise establishment that can benefit the nation’s development in terms of economic, social, environmental, legal, and corporate governance.
+This regulation also clarifies the purpose of establishing a state-owned company to contribute to the added-value creation in a more integrated, directed, measurable, and more accountable manner.
+Then SOEs are also obliged to strengthen the community’s micro and small businesses by coaching them to be more independent.
+This regulation impacted the SOE’s CSR program creation and implementation within the TelkomGroup to be more systematic, accountable, and integrated.
+In addition, on June 29, 2021, the Financial Services Authority issued a Circular Letter of the Financial Services Authority  Number 16/SEOJK.04/2021 regarding the Form and Content of the Annual Reports of Issuers and Public Companies.
+The circular letter was issued to replace the Circular Letter of the Financial Services Authority Number 30/SEOJK.04/2016 regarding the Form and Content of the Annual Report of Issuers or Public Companies.
+This regulation has no impact on Telkom’s operations but has more impact on the disclosure of annual performance, which in addition to issuing an Annual Report, Telkom must issue a Sustainability Report.
+Furthermore, on October 5, 2021, the Ministry of SOEs issued a Circular Letter of the Minister of SOEs of the Republic of  Indonesia Number SE-12/MBU/10/2021 regarding the Obligation to Submit State Organizing Assets Reports (LHKPN) for Officials in the State-Owned Enterprises.
+It aims to increase the transparency and compliance within SOEs by the LHKPN.
+It impacted the disclosure of officials’ wealth within the TelkomGroup, which we submitted per the latest provisions. 157 annual report 2021Mana GeMent DISC uSSIon anD anal YSIS The preparation of the TelkomGroup Consolidated Financial Statements refers to the Financial Accounting Standards  (SAK) issued by the Indonesian Institute of Accountants (IAI) and international accounting standards.
+In addition, TelkomGroup’s Consolidated Financial Statements  also complies with the Regulation of the Capital Market and Financial Institution Supervisory Agency (Bapepam-LK) No.
+G.7 regarding the Presentation and Disclosure of Financial Statements of Issuers or Public Companies, attached to the letter KEP347/BL/2012.
+TelkomGroup is listed on the New York Stock Exchange, so the Company also applies the International Financial Reporting Standard (IFRS) accounting standards based on the Securities and Exchange Commission (SEC) regulations.
+In the 2021 financial year, there were changes in accounting policies, i.
+, Amendments to PSAK 22 regarding the definition  of business, Amendment to PSAK 71, PSAK 55, PSAK 60, PSAK 62, and PSAK 73 regarding the reform of interest rate reference phase 2, and Amendments to PSAK 73 regarding lease concessions related to COVID-19 after 30 June 2021.
+In addition, there were also changes to IFRS accounting policies, namely Amendments to IFRS 9, IAS 39, IFRS 7, IFRS 4, and IFRS 16 related to the renewal of interest rate benchmarks – phase 2 and Amendment to IFRS 16 regarding COVID-19 – Related Rent Concessions beyond 30 June 2021.
+Implementation and Changes of Accounting Policies of TelkomGroup in 2021 Impact on Financial Statements for Financial Year 2021 NoAccounting  PolicyReason for Change SAK Financial Report IFRS Financial Report 1.
+PSAK 22.
+DSAK issued  amendments to this accounting standard as an adoption of IFRS 3.
+No impact on SAK Financial Statements.
+No impact on IFRS Financial Statements. 2 PSAK 71, PSAK 55, PSAK 60, PSAK 62, and PSAK 73.
+DSAK issued amendments to this accounting standard as an adoption of IFRS 9, IAS 39, IFRS 7, IFRS 4, and IFRS 16.
+Impact on the use of discount rates for PSAK 73 assessments.
+For other matters, it has no impact on SAK Financial Statements.
+No impact on IFRS Financial Statements. 3 PSAK 73.
+DSAK issued amendments to this accounting standard as an adoption of IFRS 16.
+No impact on SAK Financial Statements.
+No impact on IFRS Financial Statements. 4 IFRS 9, IAS 39, IFRS 7, IFRS 4, and IFRS 16.
+IASB issued the amendment related to benchmark interest rate – phase 2.
+No impact on SAK Financial Statements.
+Impact on the use of the discount rate for IFRS assessment 16.
+For other matters, it has no impact on IFRS Financial Statements. 5 IFRS 16 IASB issued the amendments to the accounting standards related to IFRS 16 “COVID-19 – Related Rent Concessions beyond 30 June 2021”No impact on SAK Financial Statements.
+No impact on IFRS Financial Statements.
+Further details of the changes in accounting policies in Telkom’s financial statements for the current year is disclosed in  Note 2 Summary of Significant Accounting Policies of TelkomGroup’s 2021 Consolidated Financial Statements.

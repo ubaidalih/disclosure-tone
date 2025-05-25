@@ -1,0 +1,159 @@
+Based on the 2019-2028 PT Perusahaan Listrik Negara (Persero) Electricity Supply Business Plan, PLN  is obliged to prioritize development of power plants sourced from NRE.
+Using natural gas will increase  the energy generated for electricity, and boost the reduction in carbon emissions leading to the  improvements in the quality of the environment and health of the Indonesian people.
+Based on Indonesia’s Economic Growth data in Quarter  IV of 2019 from the Central Statistics Agency (BPS), the  Gross Domestic Product (GDP) growth reached 5.02%.
+Growth occurred in all business sectors with the largest growth in the Other Services sector of 10.55%, followed  by Company Services at 10.25% and Information and  Communication at 9.41%.
+On the expenditure side,  growth occurred in almost all areas, especially household  consumption with 2.73% and gross fixed capital  formation with 1.47%.
+Spatially, Indonesia’s economic  growth is still dominated by the Java provinces with  59.00%, followed by Sumatra with 21.32%, Kalimantan  with 8.05%, Sulawesi with 6.33%, and the remaining with 5.30%.
+Source: Indonesia’s Economic Growth in Quarter IV-2019, Badan Pusat Statistik (2020). 179 PT Pertamina Geothermal Energy 2019 Integrated Annual ReportTata Kelola Perusahaan Good Corporate GovernanceAnalisis dan Pembahasan ManajemenManagement Discussion and AnalysisTata Kelola Tanggung Jawab Sosial dan Lingkungan Social and Environmental Responsibility Governance Indonesia’s inflation in 2019 was also relatively stable  due to consistent Bank Indonesia (BI) policies to maintain  price stability.
+Indonesia’s inflation stood at 2.72%, still  below BI’s inflation expectations of 3.5%.
+Slowing  global and domestic economic growth influenced the  low inflation rate.
+In addition, the Rupiah exchange rate  against the US Dollar that strengthened from the second  quarter, and the increasing global gold prices at the end  of 2019 also stabilized Indonesia’s inflation.
+Source: Indonesia’s Economic Growth in Quarter IV-2019, Badan Pusat Statistik (2020).
+This increase in foreign capital increased the  supply of foreign exchange and strengthened the Rupiah  exchange rate.
+Indonesia’s improved balance of payments  (BOP) also contributed to the strengthening of the Rupiah.2017 2018 2019 Sumber: Data Inflasi, Bank Indonesia (2020).
+Source: Inflation Data, Bank Indonesia (2020).
+Source: Exchange Rate Information, Bank Indonesia (2020).
+Target Penggunaan Sumber Energi Baru Terbarukan untuk Pembangkit Listrik Renewable Energy Source Targets for Power Plants dalam MW / in MW Sumber Energi 2019 2020 2025 Energy Source Geothermal 2.979 3.804 7.239 Geothermal Hydro 7.765 8.627 21.320 Hydro Bioenergy 2.876 3.112 5.415 Bioenergy Biofuel 2.182 2.318 3.000 Biofuel Solar 1.220 1.850 8.000 Solar Wind 760 870 1.450 Wind Lainnya 1 2 7 Others Total 18.586 21.056 46.287 TotalCurrently, global countries, including Indonesia, are  increasingly promoting economic development through  the use of new renewable energy sources (RES).
+Indonesia ranks second to the United States as a country  that uses geothermal energy and has an installed capacity  of 2,132 MW.
+The energy infrastructure development policies continue  to be directed towards an energy mix aimed at realizing: 1.
+National energy independence and security; 2.
+Optimizing the management of energy resources in  an integrated and sustainable manner; 3.
+Increasing the efficiencies of energy used; 4.
+Ensuring fair and equitable access to energy; 5.
+Developing technological capabilities and the  domestic energy and energy services industry; 6.
+Creating jobs; and 7.
+Controlling the effects of climate change and maintaining the environment.
+The main target for RES is for power plants, which will  then be developed for direct use in various user sectors.
+To encourage its maximum use, the Government enacted  Presidential Regulation No. 22 of 2017 concerning the  National Energy General Plan (NEGP).
+The target for  supplying power plants using RES is expected to reach 46,287 MW by 2025 with the RES composition as follows. 182 PT Pertamina Geothermal Energy Laporan Tahunan Terintegrasi 2019Ikhtisar Kinerja Performance HighlightsLaporan ManajemenManagement ReportsProfil PerusahaanCompany ProfileTinjauan Pendukung BisnisBusiness Support Overview Following up on the NEGP, PT PLN (Persero) as the  BUMN whose main responsibility is to provide adequate  electricity to the people throughout Indonesia has drawn  up an Electricity Supply Business Plan (ESBP) for 2019- 2028.
+Of the total installed capacity target of Indonesian  power plants in 2019-2028 of 56,395 MW, the target  for adding installed capacity for PLTP is 4,607 MW.
+This  amount includes a target to increase the Company’s  capacity as a geothermal manager to 440 MW.
+[GRI 102-7] Volume Produksi Uap Panas Bumi Setara Listrik Geothermal Steam Production Electricity Equivalent Area2017 2018 2019 Area GWh GJ GWh GJ GWh GJ Kamojang Kamojang Unit I 16,46 59.256 253,77 913.572 233,61 840.996 Unit I Unit II & III 907,38 3.226.568 865,24 3.114.864 759,85 2.735.460 Unit II & III Unit IV 451,18 1.624.248 490,52 1.765.872 492,06 1.771.416 Unit IV Unit V 278,35 1.002.060 261,43 941.148 256,38 922.968 Unit V Total 1.653,36 5.952.096 1.870,96 6.735.456 1.741,90 6.720.840 Total Lahendong Lahendong Unit I 108,59 390.924 121,02 435.672 110,18 396.648 Unit I Unit II 140,44 505.584 145,59 524.124 140,21 504,756 Unit II Unit III 126,54 455.544 105,18 378.648 109,84 395.424 Unit III Unit IV 103,79 373.644 38,24 137.664 142,72 513.792 Unit IVThe Company manages geothermal energy that is turned into steam and electricity.
+To do so, the Company  conducts exploration and development activities to  ensure the availability of geothermal energy for a  sustainable production process.
+As such, this operational  review is divided into two segments, namely steam and  electricity production and exploration and development.
+Steam and Electric Production For its production activities, the Company distributes  geothermal steam from the production wells, after  separating various substances and materials contained  therein, to the PLTPs through a main control valve  - governor valve to turn the turbines that produce  electricity.
+In addition, the voltage is increased through  a step-up transformer and then connected to the  distribution system managed by PT PLN (Persero).
+Overall, the Company’s production at equivalent  electricity in 2019 increased compared to the previous  year.
+Increased production was achieved in the  Lahendong and Ulubelu Areas.
+Whereas, the Kamojang  and Karaha Areas saw a decline in production.
+In addition,  the Lumut Balai Project only started active production in  2019.
+Kamojang Area The production at equivalent electricity in the Kamojang  Area fell 6.90% from 1,870.96 GWh in 2018 to 1,741.90  GWh in 2019.
+This was still 15.57% higher than the 2019  RKAP target of 1,507.27 GWh, due to improvements to  Unit 3 being delayed to 2020.
+Lahendong Area The production at equivalent electricity in the Lahendong  Area increased by 13.02% to 819.81 GWh in 2019 from  725.37 GWh in 2018, 5.14% lower than the RKAP  target of 864.23 GWh.
+The main reason for the under  production was due to the Unit 1 turbine control system  having to be operated manually, and it not becoming  fully operation until November 18, 2019.
+In addition,  PLN’s load settings on Unit 2, and a shortage of steam  supply in Unit 3 also influenced the decline in the 2019  production.
+Ulubelu Area The production at equivalent electricity in the Ulubelu Area in 2019 amounted to 1,563.66 GWh, a 10.92%  increase from 1,409.66 GWh in 2018, and 1.82% higher  than the RKAP target of 1,535.27 GWh.
+Komponen Pendapatan Usaha Operating Income Components  dalam ribu USD, kecuali dinyatakan lain / in thousands of US$, unless otherwise stated Komponen2017 2018 2019 Component USD US$%USD US$%USD US$% Penjualan Uap dan Listrik  (Operasi Sendiri)279.105 44,84 308.850 46,74 315.605 47,33Sales of steam and electricity (Own-Operations) Penjualan Uap dan Listrik (KOB)330.505 53,10 336.743 50,96 338.668 50,78Sales of steam and electricity (JOC) Pendapatan Production Allowance 12.859 2,07  15.242 2,31  12.603 1,89 Production Allowance Jumlah 622.469 100,00 660.835 100,00 666.876 100,00 Total Karaha Area The production at equivalent electricity in the Karaha  Area in 2019 amounted to 148.55 GWh, 15.67% lower  than 176.16 GWh in 2018, and 34.69% lower than the  RKAP target of 227.45 GWh.
+The main reason for the  lower production in 2019 against the RKAP target was  the lack of steam supply, and subsurface constraints.
+Lumut Balai Project In 2019, the Lumut Balai Unit 1 Project started operating with a production at equivalent electricity of 18.24 GWh.
+However, this was still below the target as the scheduled  start of the PLTP was delayed due to generator circuit  breaker interruptions.
+These PLTPs were not feasible to operate, as they  were damaged and used obsolete turbines.
+Currently,  PGE is conducting an internal review for an alternative  use of existing resources in the Sibayak Area.
+As the production was lower than the RKAP target, the  Company’s operating income was also lower than the RKAP.
+*Implementation delayed to 2020.
+Kegiatan Pengeboran Sumur KURS Tahun 2019 KURS Well Drilling Activities in 2019 Proyek/AreaRKAP 2019 2019 RKAPRevisi RKAP 2019 2019 Revised RKAP Realisasi Realization Project/Area Selesai CompletedDalam  Proses In Process Area Kamojang 5 6 6 - Kamojang Area Area Karaha - 4 4 - Karaha Area Proyek Hululais - 3 3 - Hululais Project Total 5 13 13 - TotalExploration and Development To ensure the availability of geothermal steam to fulfill  its sale and purchase contracts, the Company conducts  exploration and development throughout its WKP in  accordance with the business strategy as outlined in  the Company’s Work Plan and Budget (RKAP) and  Long-Term Plan (RJPP).
+Exploration activities consist of  geoscience studies (geology, geochemistry, geophysics,  geomatics, and geothermal reservoir systems), and start  with measurement, processing, analysis, evaluation,  interpretation of geoscience data, and exploration drilling until a project is ready to produce electricity.
+In 2019, drilling carried out by the Company reached  the RKAP target.
+/ Development planning by IPP, but not yet allocated.
+Penguasaan Terhadap Total Kapasitas Terpasang PLTP di Indonesia Control of Total PLTP Installed Capacity in Indonesia Marketing Strategy As a Pertamina Subsidiary, the Company is a pioneer in the  use and development of geothermal energy in Indonesia.
+The Company is positioned as an independent power  producer (IPP) that sells electrical energy products.
+The  products are marketed through an Electricity Purchase  Agreement (PPA) mechanism.
+The main customer of  the Company is PT PLN (Persero) through contracts  in accordance with Minister of Energy and Mineral  Resources Regulation No. 17 of 2014 concerning the  Purchase of Electric Power from PLTP and Geothermal Steam for PLTP by PT PLN (Persero).
+Meanwhile, other  customers include IPPs, namely PT Indonesia Power and  PT Dizamatra Powerindo.
+[GRI 102-6] Geothermal energy is specific as it cannot be transported or stored, and it must pass through local use (in-situ).
+This influences several factors, including market  capabilities, business aspects, technical aspects, and  policies.
+The Company does not perform free and open  promotion, but is still maintaining its ESPA continuity  in the long run.
+The Company maintains good relations  with existing customers through regular customer  satisfaction surveys.
+Market Share The Company has limited business competition with  other geothermal IPPs.
+In 2019, there was no material information and facts that  occurred after the date of the accountant’s report, so  therefore no information needs be disclosed regarding  its impact on the Company’s performance and business  risks in the future.
+In 2019, there is no financial information containing  extraordinary and rare events to report, based on the  2019 Company Financial Statements.
+There were no changes in laws and regulations in  2019 that had a significant impact on the Company’s  operational and financial performance.
+Amandemen PSAK 24 (2018): Imbalan kerja: amandemen, kurtailmen atau penyelesaian program;Changes to effective accounting policies taking effect from January 1, 2019 included. 1.
+ISAK 33: Foreign currency transactions and advance  consideration; 2.
+ISAK 34: Uncertainty over income tax treatments; 3.
+PSAK 22 (Annual Improvement 2018): Business combinations; 4.
+Amendment to PSAK 24 (2018): Employee benefits: plan amendment, curtailment or settlement; 218 PT Pertamina Geothermal Energy Laporan Tahunan Terintegrasi 2019Ikhtisar Kinerja Performance HighlightsLaporan ManajemenManagement ReportsProfil PerusahaanCompany ProfileTinjauan Pendukung BisnisBusiness Support Overview In 2019, the Company’s KPI were determined through  a Circular Shareholder Decree on November 7, 2019,  which all Company Directors Commissioners were  signed.
+The targets in the KPI form part of the 2019 RKAP.
+The  target perspective is explained as follows.
+The four perspectives are measured using several  indicators as derivatives of the strategic targets the Company wishes to achieve.
+In 2019, the KPI score  achieved by the Company reached 101.54% with details  as follows.
+PSAK 26 (Annual Improvement 2018): Borrowing  costs; 6.
+PSAK 46 (Annual Improvement 2018): Income taxed; 7.
+These changes did not cause significant changes to the  financial records and did not cause any material effect on  the Consolidated Financial Statements.5.
+Perubahan tersebut tidak menyebabkan perubahan yang  signifikan terhadap pencatatan keuangan serta tidak  menimbulkan efek material terhadap Laporan Keuangan Konsolidasian. 219 PT Pertamina Geothermal Energy 2019 Integrated Annual ReportTata Kelola Perusahaan Good Corporate GovernanceAnalisis dan Pembahasan ManajemenManagement Discussion and AnalysisTata Kelola Tanggung Jawab Sosial dan Lingkungan Social and Environmental Responsibility Governance Pencapaian KPI Tahun 2019 KPI Achievement in 2019 Nama KPI KPI NameBobot WeightSatuan UnitTarget  20192019  TargetTarget TargetRealisasi  Realization Deviasi DeviationWeighted  Performance Weighted  Performance TW IV TW IV Group KPI’s 10% 1Upstream EBITDA 50 USD Bio 7,05 7,05 6,85 97,16% 4,86 2Upstream Cost per Unit 2.1  O&G Production 30 USD/BOE 10,77 10,77 9,95 107,61% 3,23 2.2  Geothermal Production 20USD Cent/ KWh2,43 2,43 2,22 108,64% 2,17 Division KPI’s 90% Financial 15% 1EBITDA PGE 50USD Juta /  US$ million254,14 254,14 259,71 102,19% 6,90 2Biaya Operasi PGE (Exclude  Depresiasi) / PGE Operating Costs  (Excluding Depreciation)50 % 95 95 99,09 95,87% 6,47 Operational Exellence 50% 1Produksi Geothermal / Geothermal  Production40 GWh 4.551,21 4.551,21 4.292,16 94,31% 16,98 2Tambahan Ketersediaan Uap / Additional Steam Reserves40 MW 48 48 60,8 105,00% 18,90 3TRIR 10 Rate 1,05 1,05 0,31 105,00% 4,73 4OPER & Follow-up HSSE  Assessment Recommendation10 % 100 100 104,35 104,35% 4,70 Growth & Governance 35% 1Strategic Initiatives 10 % 100 100 100 100.00% 3,15 2Pencapaian Investasi / Investment Achievement 2.1  Realisasi ABI / Realization - Investment Cost Budget25 % 87 87 87,85 105,00% 8,27 2.2  Realisasi Progress Fisik /  Physical Progress Realization25 % 90 90 100,91 105,00% 8,27 3Employee Commitment &  Productivity10 3.1  Learning & Development Hours 25 Hours 100 100 131,27 105,00% 0,83 3.2 HSSE Participation 25 Poin 200 200 386,12 105,00% 0,83 3.3 GCG Implementation Compliance25 % 89 89 95,17 105,00% 0.83 3.4 Headcount Productivity 25GWh/Orang /  GWh/People7,45 7,45 7,46 100,15% 0,79 4Pengelolaan Kegiatan Quality Management / Management of Quality Management Activities10 4.1 Knowledge, Standard &  Innovation60 % 100 100 105 105,00% 1,98 4.2 OFI to AFI Quality Management 40 % 90 90 100 105,00% 1,32 5Tindak Lanjut Rekomendasi Hasil  Audit Internal / Follow-up on Internal  Audit Results Recommendations10 % 100 100 100 100,00% 3,15 6Pengelolaan Kegiatan Risk  Management  / Management of Risk  Management Activities10 6.1 Enterprise Risk Management 70 % 100 100 100 100,00% 2,21 6.2 OFI to AFI Enterprise Risk  Management30 % 95 95 100 105,00% 0,99 Total KPI 100%    101,54% 220 PT Pertamina Geothermal Energy Laporan Tahunan Terintegrasi 2019Ikhtisar Kinerja Performance HighlightsLaporan ManajemenManagement ReportsProfil PerusahaanCompany ProfileTinjauan Pendukung BisnisBusiness Support Overview Tingkat Kesehatan Perusahaan Pengukuran tingkat kesehatan Perusahaan disusun  dengan berlandaskan pada Pedoman Pengelolaan  Entitas Anak dan Perusahaan Patungan PT Pertamina  (Persero) No.
+Pencapaian Tingkat Kesehatan Perusahaan Company Soundness Level Indikator IndicatorNilai Maksimum Maximum Value2018 Nilai Maksimum *) Maximum Value *)2019 Audited RKAP Audited Kinerja Keuangan Financial Performance70,00 57,50 70 62,5 60 Kinerja Pertumbuhan Growth Performance20,00 9,00 10 0,5 1 Kinerja Operasional Operational Performance10 6 10 Kinerja AdministrasiAdministrative Performance10,00 10,00 10 10 10 Skor TotalTotal Score100,00 76,50 100 79 81 KriteriaCriteriaA  A AA KlasifikasiClassificationSehat SoundSehat  SoundSehat SoundSehat  SoundSehat  SoundCompany Soundness Level Measurement of the Company Soundness Level refers  to the Guidelines for Management of Subsidiaries and  Joint Ventures of PT Pertamina (Persero) No.
+A-001/ H00200/2011-S0 revision 1 Chapter VI concerning  Preparation of Performance Assessments.
+PGE manages 14 WKPs with a total installed operating capacity of 672 MW and JOC of 1,205 MW; 2.
+The Company’s TRIR does not exceed the tolerance standard set by Pertamina.
+The Company’s TRIR in 2019 was 0.31 below the Pertamina’s tolerance limit of 1.05; 3.
+The company is able to carry out cost efficiencies as determined by Pertamina; 4.
+Has a funding capability supported by PT Pertamina (Persero) and has been trusted by international lenders, such as the World Bank and JICA; 5.
+Has privileges from the Government in the form of all inclusive tax for existing WKP, namely the Government’s share of 34% of net operating income, including tax obligations and other levies (Reference: Keppres No. 49/1991); 6.
+Has more than 30 years experience in the geothermal business; and 7.
+The operational activities are supported by Pertamina and its affiliates (PDSI, PTC, Pertamedika, TPI, Patra Jasa, Pertamina Lubricant etc.
+Factors that have a Significant Effect  on Business Continuity By the end of 2019, the Company had successfully  completed the construction of PLTP Lumut Balai Unit I (55  MW), and had signed a Joint Development Agreement  (JDA) between PT Pertamina (Persero) and PT PLN  (Persero) for geothermal development in the work area  managed by the Company and PT PLN (Persero).
+Management Assessment on  Managing Potentially Significant Influences The Company routinely conducts assessments of its  ability to, and achievement of performance targets, and  business prospects.
+When the 2019 Annual Report was  published, there were no findings of material uncertainty  that could raise significant doubts about the Company’s  ability to maintain its business continuity.
+SWOT Analysis In managing its business continuity, the Company maps the strengths and weaknesses as well as opportunities  and threats in the Company’s Long Term Plan (RJPP) as  follows. 222 PT Pertamina Geothermal Energy Laporan Tahunan Terintegrasi 2019Ikhtisar Kinerja Performance HighlightsLaporan ManajemenManagement ReportsProfil PerusahaanCompany ProfileTinjauan Pendukung BisnisBusiness Support Overview Kelemahan 1.
+Projected negative cash flow if the Company continues to implement an aggressive growth strategy in accordance with the 2017-2021 RJPP; 2.
+Electric product buyers are still sole buyers, namely PLN, so the selling price is highly dependent on PLN’s purchasing ability; 3.
+Requires large investments with a long return on investment (non quick yielding); 4.
+There are no tariffs on the use of shared networks for direct distribution to end-users; 5.
+Availability of steam and decline rate of wells are important factors that have an impact on opportunity lost and changes in the Company’s economics; and 6.
+Geothermal steam cannot be transported and must be used locally.
+Increasingly limited availability of fossil energy; 2.
+High potential for geothermal energy in Indonesia (± 25.4 GW) with low utilization (2,047 MW or around 8% of the potential); 3.
+National electricity demand that continues to increase, on average by 6.42% per year from 2019-2028 (Reference: RUPTL 2019-2028); 4.
+Government’s commitment and program to increase the use of geothermal energy to meet national energy needs.
+Ministerial Decree No. 39K/20 MEM/2019 for the geothermal power plant energy mix target starting at the end of 2025 of 23%, to encourage the acceleration of achieving the renewable energy mix target, by adding renewable energy sources outside the 2019-2028 RUPTL according to the local electric system requirements; 5.
+Ability to optimize the use of geothermal energy in existing fields using alternative technologies such as binary systems (using brines in existing fields that still contain high energy to drive turbines); 6.
+Existence of Small Scale PLTP as proven in several countries and can be implemented in PT PGE’s field; 7.
+Obtaining new WKP through a tender process and getting direct assignments following preliminary surveys at the exploration stage with the Government; 8.
+A number of international financial institutions are interested in providing low interest loans to finance PT PGE development projects; 9.
+Regulations that underlie the opportunity to expand electricity sales directly to end-users under the Power Wheeling scheme, namely Electricity Law No. 30/2009, PP No. 14/2012, ESDM Ministerial Regulation No.1/2015; 10.
+Direct use of steam has been widely developed in various countries, including in PT PGE the work areas for CSR activities including the manufacture of palm sugar in Lahendong and mushroom nurseries, drying coffee beans, and orchid nurseries in Kamojang; and 11.
+Rapid development of exploration technology, drilling, and geothermal power plants, enabling work to be more efficient so as to reduce investment costs. 223 PT Pertamina Geothermal Energy 2019 Integrated Annual ReportTata Kelola Perusahaan Good Corporate GovernanceAnalisis dan Pembahasan ManajemenManagement Discussion and AnalysisTata Kelola Tanggung Jawab Sosial dan Lingkungan Social and Environmental Responsibility Governance Ancaman 1.
+Ref.
+Threats1.
+ESDM Regulation No. 50/2017 related to geothermal prices refers to BPP generation and application of the BOOT cooperation pattern related to asset ownership; 2.
+Geothermal locations are generally in Protected Forests, National Parks and/or Nature Reserves which require a long time to obtain permits; 3.
+Tendency of geothermal operation locations to be in areas prone to landslides; 4.
+Infrastructure limitations in geothermal locations as they are in remote areas; 5.
+Utilization of other greater and cheaper alternative energy; 6.
+Competition from other geothermal companies in obtaining new work areas, where they have faster and flexible investment procedures; 7.
+PLTP must be transferred to PLN at the end of the contract, making the economics of the geothermal business relatively unattractive.
+In addition PLN sets a limit on the selling price of geothermal electricity of 85% from the local system BPP; 8.
+Resistance from the communities around the project sites due to lack of knowledge on the benefits of geothermal energy and the presence of certain personal or group interests; 9.
+Implementation of Government policies that continue to change raises investment uncertainty.
+Ref.
+ESDM Regulation No.17/2014, the selling price of geothermal electricity from the WKP auction should be set forth in the PPA without negotiation, but in reality the WKP winner is still asked to negotiate with PLN; 10.
+The existence of Central Government and Regional Government policies that are not harmonious so that it inhibits the development of geothermal energy; and 11.
+Monopsony geothermal business market structure, where a single buyer has a strong bargaining power so that price negotiations with buyers takes a long time.
+Tertundanya penyelesaian sumur eksplorasi di  proyek Hulu Extension Bukit Daun;Assumptions Used in Management  Assessment Several factors that are considered by the Company’s  Management in conducting the assessment consist of: 1.
+Operational performance; 3.
+Regulations;5.
+Various risks, such as: a.
+Unscheduled shutdown and derating of the PLTP  system; b.
+Steam supply shortages; c.
+Hampered surveys in Gunung Lawu; d.
+Work accidents; e.
+Karaha selling prices have not been reached; f.
+Late completion of Lumut Balai Unit 1 EPC SGS  & Project power plant; g.
+Realized investment budget below the plan; h.
+Production level below the target; i.
+Delayed completion of Lumut Balai Project  development wells; j.
+Delayed completion of Bukit Daun Hulu Extension  project exploration wells; 224 PT Pertamina Geothermal Energy Laporan Tahunan Terintegrasi 2019Ikhtisar Kinerja Performance HighlightsLaporan ManajemenManagement ReportsProfil PerusahaanCompany ProfileTinjauan Pendukung BisnisBusiness Support Overview k.
+Delayed completion of Hululais project  development wells; l.
+Delay/non-implementation of the hole cleaning and make up drilling program; m.
+Hampered IPPKH Lumut Balai Project permits (revised AMDAL, IPPKH, and LMB-17 location  permit, SIPPA); and o.
+Security breaches.
+Future Corporate Strategy The Company has prepared strategies to face the  challenges in its business activities as follows. 1.
+Striving for pricing in accordance with the verification  results and joint heads of agreement with   PT Pertamina (Persero) to the Government and   PT PLN (Persero); 2.
+Maintaining the production operations reliability in the existing fields so as to supply steam and electricity  optimally according to the installed capacity; 3.
+Maintaining production by ensuring adequate supply  of steam through reservoir management, including  drilling make-up wells, and work over or hole cleaning  work, as well as mitigating and predicting unplanned  shutdowns through preventive maintenance; 4.
+Accelerating the exploration and development of  existing WKP and new areas assigned to PT PGE; 5.
+Joint Development Agreement (JDA) cooperation plan with PT PLN (Persero) in the existing PT PGE  and PT PLN (Persero) WK; 6.
+Continuing development studies with small-scale technology to increase production in existing WK  areas; 7.
+Improving technology mastery and orienting the digitization process to support operations, cost  efficiencies, and minimizing potential losses  to ultimately increase business geothermal attractiveness; 8.
+Initiating new business portfolios to support the economics of new projects and improve the overall  profitability of the Company, including direct use of  geothermal energy; and 9.
+Strengthening the synergy between Pertamina  subsidiaries by using services or products from the  Pertamina Group, and initiating the fulfillment of other APH electricity needs from the PGE PLTP as a  future revenue generator to support the Company’s  business sustainability. 225 PT Pertamina Geothermal Energy 2019 Integrated Annual ReportTata Kelola Perusahaan Good Corporate GovernanceAnalisis dan Pembahasan ManajemenManagement Discussion and AnalysisTata Kelola Tanggung Jawab Sosial dan Lingkungan Social and Environmental Responsibility Governance
