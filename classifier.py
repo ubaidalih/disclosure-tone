@@ -111,7 +111,7 @@ def zs(model, tokenizer, data, prompt_type):
         try:
             query = data.loc[i]['Sentence']
             if prompt_type == 'multiclass':
-                messages = generate_prompt(query, None, prompt_type)
+                messages = generate_prompt(query, None, prompt_type, 'zs')
                 probs = predict_classification(model, tokenizer, messages, labels, template_length=0, device='cuda')
                 top2_indices = torch.topk(torch.stack(probs, dim=-1), k=2, dim=-1).indices.tolist()
                 top1_label = labels[top2_indices[0]]
@@ -120,14 +120,14 @@ def zs(model, tokenizer, data, prompt_type):
                 data.loc[i, f"{top2_label}_Pred"] = 2
             else:
                 for label in labels:
-                    messages = generate_prompt(query, label, prompt_type)
+                    messages = generate_prompt(query, label, prompt_type, 'zs')
                     probs = predict_classification(model, tokenizer, messages, answers, template_length=0, device='cuda')
                     predicted_answer = answers[torch.argmax(torch.stack(probs, dim=-1), dim=-1).tolist()]
                     if predicted_answer == 'Yes':
                         data.loc[i, f"{label}_Pred"] = 1
         except:
             continue
-    data.to_csv(f'./Result/zs_{prompt_type}_fin-r1.csv')
+    data.to_csv(f'./Result/zs_{prompt_type}_qwen.csv')
 
 def icl(model, tokenizer, data, prompt_type):
     labels = ['Positive', 'Negative', 'Uncertainty', 'Litigious', 'Strong Modal', 'Weak Modal', 'Constraining']
