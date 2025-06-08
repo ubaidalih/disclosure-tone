@@ -1,0 +1,10 @@
+# Disclosure Tone Classification with LLMs for Stock Price Prediction with Bi-LSTM
+![image](https://github.com/user-attachments/assets/32211a0a-88af-4c1f-8a3b-ca38f3b23dca)
+## Menjalankan Komponen Data Preprocessing
+Komponen ini dapat dijalankan pada utils.ipynb. Untuk saat ini, komponen ini tidak perlu dijalankan lagi karena seluruh hasilnya sudah tersimpan dalam repository. Jika ingin menjalankan ulang, isi folder AnnualReport dengan file pdf laporan tahunan (tidak terdapat di repo karena ukuran yang sangat besar) dan update Page.csv. Kemudian, jalankan utils.ipynb. Jika ingin mengubah model untuk ekstraksi teks dapat mengubah fungsi extract_text().
+## Menjalankan Komponen Klasifikasi Disclosure Tone
+Komponen ini dapat dijalankan dengan python classfier.py 0. Angka di akhir merupakan device id dari GPU yang digunakan. Jika device hanya memiliki satu GPU gunakan 0, tetapi jika terdapat berbagai GPU dapat memilih GPU atau menggunakan beberapa GPU. Sebelum menjalankan program, pilih model yang akan digunakan dan ubah directory penyimpanan hasil. Beberapa model membutuhkan huggingface token untuk dapat diakses. Jika ingin menggunakan quantization pada model dapat diubah dalam fungsi load_model.  Hasil akan tersimpan dalam folder Result.
+## Menjalankan Komponen Prediksi Harga Saham
+Komponen ini dapat dijalankan pada stock.ipynb. Komponen ini terdiri dari preprocessing data harga saham, preprocessing hasil prediksi disclosure tone, dan training model prediksi harga saham. Modifikasi preprocessing harga saham dapat dilakukan dengan modifikasi pada fungsi agregasi dan scaler. Modifikasi preprocessing disclosure tone dapat dilakukan dengan modifikasi merging data harga dan disclosure tone dan pembuatan dataloader untuk training model. Modifikasi training model dapat dilakukan dengan mengubah hyperparameter dan input data yang digunakan.
+## Menjalankan Komponen Demo
+Komponen ini dapat dijalankan dengan python app.py. Website akan berjalan pada ip server dan dapat diakses. Sebelum menjalankan, pastikan file yang dibutuhkan lengkap, yaitu Weekly_Stock_Price.csv, seluruh file dalam folder Model/ dan DisclosureTone/.
